@@ -52,6 +52,9 @@
   <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
     <img alt="LPIC-1 Linux Administrator" height="150px" src="https://linux-schmie.de/images/lpi/LPIC-1-Medium.png"/>
   </a>
+  <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
+    <img alt="LE-1: Linux Essentials" height="150px" src="https://www.it-schulungen.com/images/seminar_images/csm_LinuxEssentials-01_0ab118aa19.jpg"/>
+  </a>
 </p>
 
 <h3>Me in the WWW</h3>
