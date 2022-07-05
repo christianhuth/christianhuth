@@ -25,6 +25,18 @@
 
 <h3>Certifications</h3>
 <p>
+  <a href="https://www.credly.com/badges/87ec89fc-b49e-4ab9-a415-823631702437" target="_blank">
+    <img alt="CKS: Certified Kubernetes Security Specialist" height="150px" src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/640e6244-0eb2-45b4-978f-4227bb023d1d" target="_blank">
+    <img alt="CKA: Certified Kubernetes Administrator" height="150px" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/1e2dc1de-e3f8-42c3-8b61-707f95044bad" target="_blank">
+    <img alt="CKAD: Certified Kubernetes Application Developer" height="150px" src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/e1c83309-53af-4deb-988b-72c6a6d8f7ad" target="_blank">
+    <img alt="KCNA: Kubernetes and Cloud Native Associate" height="150px" src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png"/>
+  </a>
   <a href="https://www.credly.com/badges/de27dcf9-82cf-4786-a573-e71266465565" target="_blank">
     <img alt="HashiCorp Certified: Vault Associate" height="150px" src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png"/>
   </a>
@@ -36,18 +48,6 @@
   </a>
   <a href="https://www.credly.com/badges/c048742d-623e-44a5-9cc8-e0dfbb492707" target="_blank">
     <img alt="AWS Certified Cloud Practitioner" height="150px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/e1c83309-53af-4deb-988b-72c6a6d8f7ad" target="_blank">
-    <img alt="KCNA: Kubernetes and Cloud Native Associate" height="150px" src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/87ec89fc-b49e-4ab9-a415-823631702437" target="_blank">
-    <img alt="CKS: Certified Kubernetes Security Specialist" height="150px" src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/1e2dc1de-e3f8-42c3-8b61-707f95044bad" target="_blank">
-    <img alt="CKAD: Certified Kubernetes Application Developer" height="150px" src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/640e6244-0eb2-45b4-978f-4227bb023d1d" target="_blank">
-    <img alt="CKA: Certified Kubernetes Administrator" height="150px" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"/>
   </a>
 </p>
 
