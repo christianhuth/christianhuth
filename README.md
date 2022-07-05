@@ -25,7 +25,7 @@
 <h3>Certifications</h3>
 <p>
   <a href="https://www.credly.com/badges/87ec89fc-b49e-4ab9-a415-823631702437" target="_blank">
-    <img alt="CKS: Certified Kubernetes Security Specialist" height="150px" width="150px" src="https://images.credly.com/size/340x340/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png"/>
+    <img alt="CKS: Certified Kubernetes Security Specialist" height="150px" width="150px" src="cks.png"/>
   </a>
   <a href="https://www.credly.com/badges/640e6244-0eb2-45b4-978f-4227bb023d1d" target="_blank">
     <img alt="CKA: Certified Kubernetes Administrator" height="150px" width="150px" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"/>
