@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 <p>I'm Chris, a DevOps Engineer, Solution Architect and IT Coach based in <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE%403x.png?raw=true' width='21' height='15'> <b>Nürnberg, Germany</b>.</p>
 
-<h3>Main Areas of Interest</h3>
+## Main Areas of Interest
 <p>
   <!-- infrastructure -->
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -22,7 +22,7 @@
   <img alt="Gitlab CI/CD" src="https://img.shields.io/badge/-Gitlab_CI/CD-F0F0F0?style=flat-square&logo=gitlab&logoColor=white" />
 </p>
 
-<h3>Certifications</h3>
+### Certifications
 <p>
   <a href="https://www.credly.com/badges/87ec89fc-b49e-4ab9-a415-823631702437" target="_blank">
     <img alt="CKS: Certified Kubernetes Security Specialist" height="150px" width="150px" src="images/cks.png"/>
@@ -56,23 +56,29 @@
   </a>
 </p>
 
-<h3>Me in the WWW</h3>
+## Me in the WWW
 <p>
   <a href="https://blog.knell.it" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-15171A?&style=flat-square&logo=ghost&logoColor=white" />
-  </a> 
+  </a>
+  <a href="https://github.com/christianknell" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?&style=flat-square&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/christianknell/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://twitter.com/christianknell" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" />
-  </a> 
+  </a>
   <a href="mailto: christian@knell.it" target="_blank">
     <img alt="Mail" src="https://img.shields.io/badge/Mail-30B980?&style=flat-square&logo=minutemailer&logoColor=white" />
-  </a> 
+  </a>
+  <a href="https://twitter.com/christianknell" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.xing.com/profile/Christian_Knell" target="_blank">
+    <img alt="XING" src="https://img.shields.io/badge/XING-006567?&style=flat-square&logo=xing&logoColor=white" />
+  </a>
 </p>
 
-## 📊 My Github Stats
+### 📊 My Github Stats
 
 |   ![Contribution graph](https://activity-graph.herokuapp.com/graph?username=christianknell&theme=rogue) |
 | :---: |
@@ -80,7 +86,7 @@
 | ![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianknell&show_icons=true&theme=city_lights) | ![Christian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christianknell&theme=city-lights) |
 | :---: | :---: |
 
-<h4>Recent Activities</h4>
+#### Recent Activities
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#70](https://github.com/kubevious/kubevious/issues/70) in [kubevious/kubevious](https://github.com/kubevious/kubevious)
