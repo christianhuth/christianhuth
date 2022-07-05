@@ -17,6 +17,22 @@
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 </p>
 
+<h3>Certifications</h3>
+<p>
+  <a href="https://www.credly.com/badges/de27dcf9-82cf-4786-a573-e71266465565" target="_blank">
+    <img alt="HashiCorp Certified: Vault Associate" height="150px" src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/f79d26b2-8dbc-4a70-9cf3-9c9ce388590c" target="_blank">
+    <img alt="HashiCorp Certified: Terraform Associate" height="150px" src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/d3a3349a-caf3-4508-ba9a-ad02f81a8f7c" target="_blank">
+    <img alt="AWS Certified Solutions Architect – Associate" height="150px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/c048742d-623e-44a5-9cc8-e0dfbb492707" target="_blank">
+    <img alt="AWS Certified Cloud Practitioner" height="150px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+  </a>
+</p>
+
 <h3>Writings</h3>
 <p>
   <a href="https://blog.knell.it" target="_blank">Blog</a>
