@@ -12,9 +12,15 @@
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844fba?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-white?style=flat-square&logo=ansible&logoColor=black" />
+  
   <!-- monitoring -->
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  
+  <!-- git gud -->
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Gitlab CI/CD" src="https://img.shields.io/badge/-Gitlab_CI/CD-F0F0F0?style=flat-square&logo=gitlab&logoColor=white" />
 </p>
 
 <h3>Certifications</h3>
