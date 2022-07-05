@@ -79,3 +79,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianknell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#70](https://github.com/kubevious/kubevious/issues/70) in [kubevious/kubevious](https://github.com/kubevious/kubevious)
+2. 🗣 Commented on [#70](https://github.com/kubevious/kubevious/issues/70) in [kubevious/kubevious](https://github.com/kubevious/kubevious)
+3. 🗣 Commented on [#71](https://github.com/kubevious/kubevious/issues/71) in [kubevious/kubevious](https://github.com/kubevious/kubevious)
+4. ❗️ Opened issue [#46](https://github.com/klustair/klustair-helm/issues/46) in [klustair/klustair-helm](https://github.com/klustair/klustair-helm)
+5. ❗️ Reopened issue [#7](https://github.com/christianknell/helm-charts/issues/7) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+<!--END_SECTION:activity-->
