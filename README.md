@@ -28,10 +28,10 @@
     <img alt="CKS: Certified Kubernetes Security Specialist" height="150px" width="150px" src="images/cks.png"/>
   </a>
   <a href="https://www.credly.com/badges/640e6244-0eb2-45b4-978f-4227bb023d1d" target="_blank">
-    <img alt="CKA: Certified Kubernetes Administrator" height="150px" width="150px" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"/>
+    <img alt="CKA: Certified Kubernetes Administrator" height="150px" width="150px" src="images/cka.png"/>
   </a>
   <a href="https://www.credly.com/badges/1e2dc1de-e3f8-42c3-8b61-707f95044bad" target="_blank">
-    <img alt="CKAD: Certified Kubernetes Application Developer" height="150px" width="150px" src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png"/>
+    <img alt="CKAD: Certified Kubernetes Application Developer" height="150px" width="150px" src="images/ckad.png"/>
   </a>
   <a href="https://www.credly.com/badges/e1c83309-53af-4deb-988b-72c6a6d8f7ad" target="_blank">
     <img alt="KCNA: Kubernetes and Cloud Native Associate" height="150px" width="150px" src="images/kcna.png"/>
