@@ -78,6 +78,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christianknell)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianknell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<h4>Recent Activities</h4>
+
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#70](https://github.com/kubevious/kubevious/issues/70) in [kubevious/kubevious](https://github.com/kubevious/kubevious)
 2. 🗣 Commented on [#70](https://github.com/kubevious/kubevious/issues/70) in [kubevious/kubevious](https://github.com/kubevious/kubevious)
