@@ -39,17 +39,18 @@
   </a>
 </p>
 
-<h3>Writings</h3>
+<h3>Me in the WWW</h3>
 <p>
-  <a href="https://blog.knell.it" target="_blank">Blog</a>
-</p>
-
-<h3>Socials</h3>
-<p>
+  <a href="https://blog.knell.it" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-15171A?&style=flat-square&logo=ghost&logoColor=white" />
+  </a> 
   <a href="https://www.linkedin.com/in/christianknell/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a> 
   <a href="https://twitter.com/christianknell" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" />
+  </a> 
+  <a href="mailto: christian@knell.it" target="_blank">
+    <img alt="Mail" src="https://img.shields.io/badge/Mail-30B980?&style=flat-square&logo=minutemailer&logoColor=white" />
   </a> 
 </p>
