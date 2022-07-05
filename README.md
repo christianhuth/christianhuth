@@ -49,6 +49,9 @@
   <a href="https://www.credly.com/badges/c048742d-623e-44a5-9cc8-e0dfbb492707" target="_blank">
     <img alt="AWS Certified Cloud Practitioner" height="150px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
   </a>
+  <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
+    <img alt="LPIC-1 Linux Administrator" height="150px" src="https://linux-schmie.de/images/lpi/LPIC-1-Medium.png"/>
+  </a>
 </p>
 
 <h3>Me in the WWW</h3>
