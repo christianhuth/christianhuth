@@ -37,11 +37,11 @@
   <a href="https://www.credly.com/badges/e1c83309-53af-4deb-988b-72c6a6d8f7ad" target="_blank">
     <img alt="KCNA: Kubernetes and Cloud Native Associate" height="150px" src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png"/>
   </a>
-  <a href="https://www.credly.com/badges/de27dcf9-82cf-4786-a573-e71266465565" target="_blank">
-    <img alt="HashiCorp Certified: Vault Associate" height="150px" src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png"/>
-  </a>
   <a href="https://www.credly.com/badges/f79d26b2-8dbc-4a70-9cf3-9c9ce388590c" target="_blank">
     <img alt="HashiCorp Certified: Terraform Associate" height="150px" src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/de27dcf9-82cf-4786-a573-e71266465565" target="_blank">
+    <img alt="HashiCorp Certified: Vault Associate" height="150px" src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png"/>
   </a>
   <a href="https://www.credly.com/badges/d3a3349a-caf3-4508-ba9a-ad02f81a8f7c" target="_blank">
     <img alt="AWS Certified Solutions Architect – Associate" height="150px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/>
