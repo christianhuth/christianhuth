@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 <p>I'm Chris, a DevOps Engineer, Solution Architect and IT Coach based in <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE%403x.png?raw=true' width='21' height='15'> <b>Nürnberg, Germany</b>.</p>
 
 <h3>Main Areas of Interest</h3>
@@ -72,3 +71,7 @@
     <img alt="Mail" src="https://img.shields.io/badge/Mail-30B980?&style=flat-square&logo=minutemailer&logoColor=white" />
   </a> 
 </p>
+
+<h3>Me on GitHub</h3>
+
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianknell&show_icons=true&count_private=true)
