@@ -25,7 +25,7 @@
 <h3>Certifications</h3>
 <p>
   <a href="https://www.credly.com/badges/87ec89fc-b49e-4ab9-a415-823631702437" target="_blank">
-    <img alt="CKS: Certified Kubernetes Security Specialist" height="150px" width="150px" src="cks.png"/>
+    <img alt="CKS: Certified Kubernetes Security Specialist" height="150px" width="150px" src="images/cks.png"/>
   </a>
   <a href="https://www.credly.com/badges/640e6244-0eb2-45b4-978f-4227bb023d1d" target="_blank">
     <img alt="CKA: Certified Kubernetes Administrator" height="150px" width="150px" src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"/>
@@ -34,7 +34,7 @@
     <img alt="CKAD: Certified Kubernetes Application Developer" height="150px" width="150px" src="https://images.credly.com/size/340x340/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png"/>
   </a>
   <a href="https://www.credly.com/badges/e1c83309-53af-4deb-988b-72c6a6d8f7ad" target="_blank">
-    <img alt="KCNA: Kubernetes and Cloud Native Associate" height="150px" width="150px" src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png"/>
+    <img alt="KCNA: Kubernetes and Cloud Native Associate" height="150px" width="150px" src="images/kcna.png"/>
   </a>
   <a href="https://www.credly.com/badges/f79d26b2-8dbc-4a70-9cf3-9c9ce388590c" target="_blank">
     <img alt="HashiCorp Certified: Terraform Associate" height="150px" width="150px" src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"/>
