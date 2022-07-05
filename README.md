@@ -72,11 +72,13 @@
   </a> 
 </p>
 
-<h3>Me on GitHub</h3>
+## 📊 My Github Stats
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianknell&show_icons=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christianknell)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianknell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+|   ![Contribution graph](https://activity-graph.herokuapp.com/graph?username=christianknell&theme=rogue) |
+| :---: |
+
+| ![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianknell&show_icons=true&theme=city_lights) | ![Christian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christianknell&theme=city-lights) |
+| :---: | :---: |
 
 <h4>Recent Activities</h4>
 
