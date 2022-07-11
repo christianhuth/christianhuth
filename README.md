@@ -89,9 +89,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#108](https://github.com/cnieg/helm-charts/pull/108) in [cnieg/helm-charts](https://github.com/cnieg/helm-charts)
-2. ❗️ Closed issue [#70](https://github.com/kubevious/kubevious/issues/70) in [kubevious/kubevious](https://github.com/kubevious/kubevious)
-3. 🗣 Commented on [#70](https://github.com/kubevious/kubevious/issues/70) in [kubevious/kubevious](https://github.com/kubevious/kubevious)
-4. 🗣 Commented on [#71](https://github.com/kubevious/kubevious/issues/71) in [kubevious/kubevious](https://github.com/kubevious/kubevious)
-5. ❗️ Opened issue [#46](https://github.com/klustair/klustair-helm/issues/46) in [klustair/klustair-helm](https://github.com/klustair/klustair-helm)
+1. ❗️ Closed issue [#9](https://github.com/christianknell/helm-charts/issues/9) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. ❗️ Reopened issue [#9](https://github.com/christianknell/helm-charts/issues/9) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. ❗️ Reopened issue [#7](https://github.com/christianknell/helm-charts/issues/7) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. ❗️ Reopened issue [#8](https://github.com/christianknell/helm-charts/issues/8) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. ❗️ Reopened issue [#14](https://github.com/christianknell/helm-charts/issues/14) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
