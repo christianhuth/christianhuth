@@ -79,6 +79,9 @@
   <a href="https://twitter.com/christianknell" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" />
   </a>
+  <a href="https://udemy.com/user/christian-knell" target="_blank">
+    <img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?&style=flat-square&logo=udemy&logoColor=white" />
+  </a>
   <a href="https://www.xing.com/profile/Christian_Knell" target="_blank">
     <img alt="XING" src="https://img.shields.io/badge/XING-006567?&style=flat-square&logo=xing&logoColor=white" />
   </a>
