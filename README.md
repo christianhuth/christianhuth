@@ -11,6 +11,8 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-white?style=flat-square&logo=ansible&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="HashiCorp Vault" src="https://img.shields.io/badge/-Vault-white?style=flat-square&logo=vault&logoColor=black" />
+  <img alt="HashiCorp Consul" src="https://img.shields.io/badge/-Consul-F24C53?style=flat-square&logo=consul&logoColor=white" />
   
   <!-- monitoring -->
   <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
