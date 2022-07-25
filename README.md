@@ -58,6 +58,9 @@
 
 ## Me in the WWW
 <p>
+  <a href="https://artifacthub.io/packages/search?repo=christianknell" target="_blank">
+    <img alt="ArtifactHub" src="https://img.shields.io/badge/ArtifactHub-417598?&style=flat-square&logo=artifacthub&logoColor=white" />
+  </a>
   <a href="https://blog.knell.it" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-15171A?&style=flat-square&logo=ghost&logoColor=white" />
   </a>
