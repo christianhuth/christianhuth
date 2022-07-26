@@ -101,9 +101,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#392](https://github.com/thedevs-network/kutt/issues/392) in [thedevs-network/kutt](https://github.com/thedevs-network/kutt)
-2. ❗️ Closed issue [#46](https://github.com/christianknell/helm-charts/issues/46) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🎉 Merged PR [#48](https://github.com/christianknell/helm-charts/pull/48) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 💪 Opened PR [#48](https://github.com/christianknell/helm-charts/pull/48) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. ❗️ Opened issue [#47](https://github.com/christianknell/helm-charts/issues/47) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🎉 Merged PR [#49](https://github.com/christianknell/helm-charts/pull/49) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 💪 Opened PR [#49](https://github.com/christianknell/helm-charts/pull/49) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🗣 Commented on [#392](https://github.com/thedevs-network/kutt/issues/392) in [thedevs-network/kutt](https://github.com/thedevs-network/kutt)
+4. ❗️ Closed issue [#46](https://github.com/christianknell/helm-charts/issues/46) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🎉 Merged PR [#48](https://github.com/christianknell/helm-charts/pull/48) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
