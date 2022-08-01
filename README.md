@@ -104,9 +104,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/christianknell/helm-charts/pull/64) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#65](https://github.com/christianknell/helm-charts/pull/65) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 💪 Opened PR [#65](https://github.com/christianknell/helm-charts/pull/65) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🎉 Merged PR [#62](https://github.com/christianknell/helm-charts/pull/62) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 💪 Opened PR [#62](https://github.com/christianknell/helm-charts/pull/62) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 💪 Opened PR [#69](https://github.com/christianknell/helm-charts/pull/69) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. ❗️ Opened issue [#19](https://github.com/edmodo/proxyweb/issues/19) in [edmodo/proxyweb](https://github.com/edmodo/proxyweb)
+3. 🎉 Merged PR [#63](https://github.com/christianknell/helm-charts/pull/63) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. ❗️ Opened issue [#66](https://github.com/christianknell/helm-charts/issues/66) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🎉 Merged PR [#64](https://github.com/christianknell/helm-charts/pull/64) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
