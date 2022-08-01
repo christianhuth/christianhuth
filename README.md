@@ -39,20 +39,23 @@
   <a href="https://www.credly.com/badges/e1c83309-53af-4deb-988b-72c6a6d8f7ad" target="_blank">
     <img alt="KCNA: Kubernetes and Cloud Native Associate" height="150px" width="150px" src="images/kcna.png"/>
   </a>
+  <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
+    <img alt="LPIC-1 Linux Administrator" height="150px" width="150px" src="images/lpic-1.png"/>
+  </a>
   <a href="https://www.credly.com/badges/f79d26b2-8dbc-4a70-9cf3-9c9ce388590c" target="_blank">
     <img alt="HashiCorp Certified: Terraform Associate" height="150px" width="150px" src="images/terraform-associate.png"/>
   </a>
   <a href="https://www.credly.com/badges/de27dcf9-82cf-4786-a573-e71266465565" target="_blank">
     <img alt="HashiCorp Certified: Vault Associate" height="150px" width="150px" src="images/vault-associate.png"/>
   </a>
+  <a href="https://www.credly.com/badges/68c07833-84c5-43d5-afef-6e98938eab39" target="_blank">
+    <img alt="HashiCorp Certified: Consul Associate" height="150px" width="150px" src="images/consul-associate.png"/>
+  </a>
   <a href="https://www.credly.com/badges/d3a3349a-caf3-4508-ba9a-ad02f81a8f7c" target="_blank">
     <img alt="AWS Certified Solutions Architect – Associate" height="150px" width="150px" src="images/aws-saa.png"/>
   </a>
   <a href="https://www.credly.com/badges/c048742d-623e-44a5-9cc8-e0dfbb492707" target="_blank">
     <img alt="AWS Certified Cloud Practitioner" height="150px" width="150px" src="images/aws-cp.png"/>
-  </a>
-  <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
-    <img alt="LPIC-1 Linux Administrator" height="150px" width="150px" src="images/lpic-1.png"/>
   </a>
   <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
     <img alt="LE-1: Linux Essentials" height="150px" width="150px" src="images/linux-essentials.png"/>
