@@ -76,6 +76,9 @@
   <a href="https://github.com/christianknell" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?&style=flat-square&logo=github&logoColor=white" />
   </a>
+  <a href="https://christianknell.github.io/helm-charts/" target="_blank">
+    <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?&style=flat-square&logo=helm&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/christianknell/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>
