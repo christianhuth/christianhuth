@@ -107,9 +107,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#182](https://github.com/brancz/kube-rbac-proxy/issues/182) in [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy)
-2. ❗️ Closed issue [#66](https://github.com/christianknell/helm-charts/issues/66) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🗣 Commented on [#66](https://github.com/christianknell/helm-charts/issues/66) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🎉 Merged PR [#73](https://github.com/christianknell/helm-charts/pull/73) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#69](https://github.com/christianknell/helm-charts/pull/69) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. ❗️ Opened issue [#86](https://github.com/christianknell/helm-charts/issues/86) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. ❗️ Opened issue [#182](https://github.com/brancz/kube-rbac-proxy/issues/182) in [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy)
+3. ❗️ Closed issue [#66](https://github.com/christianknell/helm-charts/issues/66) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🗣 Commented on [#66](https://github.com/christianknell/helm-charts/issues/66) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🎉 Merged PR [#73](https://github.com/christianknell/helm-charts/pull/73) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
