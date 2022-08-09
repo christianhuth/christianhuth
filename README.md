@@ -107,9 +107,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/mrueg/netcupscp-exporter/issues/4) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
-2. 🗣 Commented on [#3](https://github.com/mrueg/netcupscp-exporter/issues/3) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
-3. ❗️ Opened issue [#88](https://github.com/christianknell/helm-charts/issues/88) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🗣 Commented on [#215](https://github.com/salesforce/sloop/issues/215) in [salesforce/sloop](https://github.com/salesforce/sloop)
-5. 🗣 Commented on [#15159](https://github.com/mastodon/mastodon/issues/15159) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+1. 🗣 Commented on [#182](https://github.com/brancz/kube-rbac-proxy/issues/182) in [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy)
+2. 🗣 Commented on [#4](https://github.com/mrueg/netcupscp-exporter/issues/4) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+3. 🗣 Commented on [#3](https://github.com/mrueg/netcupscp-exporter/issues/3) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+4. ❗️ Opened issue [#88](https://github.com/christianknell/helm-charts/issues/88) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🗣 Commented on [#215](https://github.com/salesforce/sloop/issues/215) in [salesforce/sloop](https://github.com/salesforce/sloop)
 <!--END_SECTION:activity-->
