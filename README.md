@@ -107,9 +107,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15159](https://github.com/mastodon/mastodon/issues/15159) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
-2. 🗣 Commented on [#16](https://github.com/kubevious/helm/issues/16) in [kubevious/helm](https://github.com/kubevious/helm)
-3. ❗️ Opened issue [#4](https://github.com/mrueg/netcupscp-exporter/issues/4) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
-4. 🗣 Commented on [#3](https://github.com/mrueg/netcupscp-exporter/issues/3) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
-5. ❗️ Opened issue [#3](https://github.com/mrueg/netcupscp-exporter/issues/3) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+1. 🗣 Commented on [#4](https://github.com/mrueg/netcupscp-exporter/issues/4) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+2. 🗣 Commented on [#3](https://github.com/mrueg/netcupscp-exporter/issues/3) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+3. ❗️ Opened issue [#88](https://github.com/christianknell/helm-charts/issues/88) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🗣 Commented on [#215](https://github.com/salesforce/sloop/issues/215) in [salesforce/sloop](https://github.com/salesforce/sloop)
+5. 🗣 Commented on [#15159](https://github.com/mastodon/mastodon/issues/15159) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
 <!--END_SECTION:activity-->
