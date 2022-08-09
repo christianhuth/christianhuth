@@ -107,9 +107,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/kubevious/helm/issues/16) in [kubevious/helm](https://github.com/kubevious/helm)
-2. ❗️ Opened issue [#86](https://github.com/christianknell/helm-charts/issues/86) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. ❗️ Opened issue [#182](https://github.com/brancz/kube-rbac-proxy/issues/182) in [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy)
-4. ❗️ Closed issue [#66](https://github.com/christianknell/helm-charts/issues/66) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🗣 Commented on [#66](https://github.com/christianknell/helm-charts/issues/66) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. ❗️ Opened issue [#3](https://github.com/mrueg/netcupscp-exporter/issues/3) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+2. ❗️ Opened issue [#2](https://github.com/mrueg/netcupscp-exporter/issues/2) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+3. 🎉 Merged PR [#87](https://github.com/christianknell/helm-charts/pull/87) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 💪 Opened PR [#87](https://github.com/christianknell/helm-charts/pull/87) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🗣 Commented on [#16](https://github.com/kubevious/helm/issues/16) in [kubevious/helm](https://github.com/kubevious/helm)
 <!--END_SECTION:activity-->
