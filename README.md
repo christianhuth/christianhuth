@@ -107,9 +107,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/mrueg/netcupscp-exporter/issues/6) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+1. 🎉 Merged PR [#79](https://github.com/christianknell/helm-charts/pull/79) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 2. 🗣 Commented on [#6](https://github.com/mrueg/netcupscp-exporter/issues/6) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
-3. 💪 Opened PR [#6](https://github.com/mrueg/netcupscp-exporter/pull/6) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
-4. 🗣 Commented on [#4](https://github.com/mrueg/netcupscp-exporter/issues/4) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
-5. 🗣 Commented on [#5](https://github.com/mrueg/netcupscp-exporter/issues/5) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+3. 🗣 Commented on [#6](https://github.com/mrueg/netcupscp-exporter/issues/6) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+4. 💪 Opened PR [#6](https://github.com/mrueg/netcupscp-exporter/pull/6) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+5. 🗣 Commented on [#4](https://github.com/mrueg/netcupscp-exporter/issues/4) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
 <!--END_SECTION:activity-->
