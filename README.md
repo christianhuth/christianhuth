@@ -107,9 +107,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/christianknell/helm-charts/pull/79) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🗣 Commented on [#6](https://github.com/mrueg/netcupscp-exporter/issues/6) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
-3. 🗣 Commented on [#6](https://github.com/mrueg/netcupscp-exporter/issues/6) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
-4. 💪 Opened PR [#6](https://github.com/mrueg/netcupscp-exporter/pull/6) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
-5. 🗣 Commented on [#4](https://github.com/mrueg/netcupscp-exporter/issues/4) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+1. 🎉 Merged PR [#89](https://github.com/christianknell/helm-charts/pull/89) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. ❌ Closed PR [#82](https://github.com/christianknell/helm-charts/pull/82) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. ❌ Closed PR [#85](https://github.com/christianknell/helm-charts/pull/85) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. ❌ Closed PR [#90](https://github.com/christianknell/helm-charts/pull/90) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. ❌ Closed PR [#78](https://github.com/christianknell/helm-charts/pull/78) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
