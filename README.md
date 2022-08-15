@@ -107,9 +107,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/christianknell/helm-charts/pull/91) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#81](https://github.com/christianknell/helm-charts/pull/81) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🎉 Merged PR [#76](https://github.com/christianknell/helm-charts/pull/76) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🎉 Merged PR [#89](https://github.com/christianknell/helm-charts/pull/89) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. ❌ Closed PR [#82](https://github.com/christianknell/helm-charts/pull/82) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 💪 Opened PR [#7](https://github.com/mrueg/netcupscp-exporter/pull/7) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+2. ❗️ Closed issue [#5](https://github.com/mrueg/netcupscp-exporter/issues/5) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+3. 🗣 Commented on [#5](https://github.com/mrueg/netcupscp-exporter/issues/5) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+4. 🎉 Merged PR [#91](https://github.com/christianknell/helm-charts/pull/91) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🎉 Merged PR [#81](https://github.com/christianknell/helm-charts/pull/81) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
