@@ -107,9 +107,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#359](https://github.com/zulip/docker-zulip/issues/359) in [zulip/docker-zulip](https://github.com/zulip/docker-zulip)
-2. 🗣 Commented on [#3](https://github.com/mrueg/netcupscp-exporter/issues/3) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
-3. ❌ Closed PR [#95](https://github.com/christianknell/helm-charts/pull/95) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 💪 Opened PR [#7](https://github.com/mrueg/netcupscp-exporter/pull/7) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
-5. ❗️ Closed issue [#5](https://github.com/mrueg/netcupscp-exporter/issues/5) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+1. ❗️ Opened issue [#74](https://github.com/dominik-th/matomo-plugin-LoginOIDC/issues/74) in [dominik-th/matomo-plugin-LoginOIDC](https://github.com/dominik-th/matomo-plugin-LoginOIDC)
+2. 🗣 Commented on [#359](https://github.com/zulip/docker-zulip/issues/359) in [zulip/docker-zulip](https://github.com/zulip/docker-zulip)
+3. 🗣 Commented on [#3](https://github.com/mrueg/netcupscp-exporter/issues/3) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
+4. ❌ Closed PR [#95](https://github.com/christianknell/helm-charts/pull/95) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 💪 Opened PR [#7](https://github.com/mrueg/netcupscp-exporter/pull/7) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
 <!--END_SECTION:activity-->
