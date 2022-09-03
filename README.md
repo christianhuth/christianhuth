@@ -107,9 +107,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#696](https://github.com/kubernetes/node-problem-detector/issues/696) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
-2. ❗️ Opened issue [#74](https://github.com/dominik-th/matomo-plugin-LoginOIDC/issues/74) in [dominik-th/matomo-plugin-LoginOIDC](https://github.com/dominik-th/matomo-plugin-LoginOIDC)
-3. 🗣 Commented on [#359](https://github.com/zulip/docker-zulip/issues/359) in [zulip/docker-zulip](https://github.com/zulip/docker-zulip)
-4. 🗣 Commented on [#3](https://github.com/mrueg/netcupscp-exporter/issues/3) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
-5. ❌ Closed PR [#95](https://github.com/christianknell/helm-charts/pull/95) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🗣 Commented on [#74](https://github.com/dominik-th/matomo-plugin-LoginOIDC/issues/74) in [dominik-th/matomo-plugin-LoginOIDC](https://github.com/dominik-th/matomo-plugin-LoginOIDC)
+2. 🗣 Commented on [#696](https://github.com/kubernetes/node-problem-detector/issues/696) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+3. ❗️ Opened issue [#74](https://github.com/dominik-th/matomo-plugin-LoginOIDC/issues/74) in [dominik-th/matomo-plugin-LoginOIDC](https://github.com/dominik-th/matomo-plugin-LoginOIDC)
+4. 🗣 Commented on [#359](https://github.com/zulip/docker-zulip/issues/359) in [zulip/docker-zulip](https://github.com/zulip/docker-zulip)
+5. 🗣 Commented on [#3](https://github.com/mrueg/netcupscp-exporter/issues/3) in [mrueg/netcupscp-exporter](https://github.com/mrueg/netcupscp-exporter)
 <!--END_SECTION:activity-->
