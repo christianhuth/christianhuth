@@ -107,9 +107,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/christianknell/helm-charts/pull/101) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#94](https://github.com/christianknell/helm-charts/pull/94) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. ❌ Closed PR [#97](https://github.com/christianknell/helm-charts/pull/97) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🗣 Commented on [#74](https://github.com/dominik-th/matomo-plugin-LoginOIDC/issues/74) in [dominik-th/matomo-plugin-LoginOIDC](https://github.com/dominik-th/matomo-plugin-LoginOIDC)
-5. 🗣 Commented on [#696](https://github.com/kubernetes/node-problem-detector/issues/696) in [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector)
+1. 🎉 Merged PR [#100](https://github.com/christianknell/helm-charts/pull/100) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🎉 Merged PR [#92](https://github.com/christianknell/helm-charts/pull/92) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🎉 Merged PR [#101](https://github.com/christianknell/helm-charts/pull/101) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🎉 Merged PR [#94](https://github.com/christianknell/helm-charts/pull/94) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. ❌ Closed PR [#97](https://github.com/christianknell/helm-charts/pull/97) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
