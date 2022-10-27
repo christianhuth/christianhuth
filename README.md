@@ -60,6 +60,12 @@
   <a href="https://www.credly.com/badges/c048742d-623e-44a5-9cc8-e0dfbb492707" target="_blank">
     <img alt="AWS Certified Cloud Practitioner" height="150px" width="150px" src="images/aws-cp.png"/>
   </a>
+  <a href="certificates/gitops-fundamentals.pdf" target="_blank">
+    <img alt="GitOps Fundamentals" height="150px" width="150px" src="images/gitops-fundamentals.png"/>
+  </a>
+  <a href="certificates/gitops-at-scale.pdf" target="_blank">
+    <img alt="GitOps at Scale" height="150px" width="150px" src="images/gitops-at-scale.png"/>
+  </a>
 </p>
 
 ## Me in the WWW
