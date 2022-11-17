@@ -79,7 +79,7 @@
   <a href="https://blog.knell.it" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-15171A?&style=flat-square&logo=ghost&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/users/christian-knell/" target="_blank">
+  <a href="https://www.credly.com/users/christianknell/" target="_blank">
     <img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00?&style=flat-square&logo=credly&logoColor=white" />
   </a>
   <a href="https://github.com/christianknell" target="_blank">
