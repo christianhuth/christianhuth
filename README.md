@@ -39,6 +39,9 @@
   <a href="https://www.credly.com/badges/e1c83309-53af-4deb-988b-72c6a6d8f7ad" target="_blank">
     <img alt="KCNA: Kubernetes and Cloud Native Associate" height="150px" width="150px" src="images/kcna.png"/>
   </a>
+  <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
+    <img alt="PCA: Prometheus Certified Associate" height="150px" width="150px" src="images/pca.png"/>
+  </a>
   <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
     <img alt="LPIC-1 Linux Administrator" height="150px" width="150px" src="images/lpic-1.png"/>
   </a>
