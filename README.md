@@ -116,9 +116,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#34](https://github.com/christianknell/helm-charts/issues/34) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. ❗️ Reopened issue [#35](https://github.com/christianknell/helm-charts/issues/35) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. ❗️ Reopened issue [#37](https://github.com/christianknell/helm-charts/issues/37) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. ❗️ Reopened issue [#33](https://github.com/christianknell/helm-charts/issues/33) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🗣 Commented on [#1651](https://github.com/argoproj/argo-helm/issues/1651) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
+1. ❗️ Closed issue [#1651](https://github.com/argoproj/argo-helm/issues/1651) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
+2. 🗣 Commented on [#1651](https://github.com/argoproj/argo-helm/issues/1651) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
+3. ❗️ Reopened issue [#34](https://github.com/christianknell/helm-charts/issues/34) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. ❗️ Reopened issue [#35](https://github.com/christianknell/helm-charts/issues/35) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. ❗️ Reopened issue [#37](https://github.com/christianknell/helm-charts/issues/37) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
