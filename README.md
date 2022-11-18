@@ -116,9 +116,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1651](https://github.com/argoproj/argo-helm/issues/1651) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
-2. 🎉 Merged PR [#123](https://github.com/christianknell/helm-charts/pull/123) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🎉 Merged PR [#122](https://github.com/christianknell/helm-charts/pull/122) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 💪 Opened PR [#123](https://github.com/christianknell/helm-charts/pull/123) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#121](https://github.com/christianknell/helm-charts/pull/121) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. ❗️ Reopened issue [#34](https://github.com/christianknell/helm-charts/issues/34) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. ❗️ Reopened issue [#35](https://github.com/christianknell/helm-charts/issues/35) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. ❗️ Reopened issue [#37](https://github.com/christianknell/helm-charts/issues/37) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. ❗️ Reopened issue [#33](https://github.com/christianknell/helm-charts/issues/33) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🗣 Commented on [#1651](https://github.com/argoproj/argo-helm/issues/1651) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
 <!--END_SECTION:activity-->
