@@ -117,8 +117,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#88](https://github.com/bakito/sealed-secrets-web/issues/88) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
-2. 💪 Opened PR [#88](https://github.com/bakito/sealed-secrets-web/pull/88) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
-3. ❗️ Opened issue [#141](https://github.com/christianknell/helm-charts/issues/141) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. ❗️ Opened issue [#140](https://github.com/christianknell/helm-charts/issues/140) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🗣 Commented on [#841](https://github.com/Open-Web-Analytics/Open-Web-Analytics/issues/841) in [Open-Web-Analytics/Open-Web-Analytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics)
+2. 🗣 Commented on [#88](https://github.com/bakito/sealed-secrets-web/issues/88) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
+3. 💪 Opened PR [#88](https://github.com/bakito/sealed-secrets-web/pull/88) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
+4. ❗️ Opened issue [#141](https://github.com/christianknell/helm-charts/issues/141) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. ❗️ Opened issue [#140](https://github.com/christianknell/helm-charts/issues/140) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
