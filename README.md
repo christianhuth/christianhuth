@@ -116,9 +116,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#139](https://github.com/christianknell/helm-charts/pull/139) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#138](https://github.com/christianknell/helm-charts/pull/138) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 💪 Opened PR [#91](https://github.com/bakito/sealed-secrets-web/pull/91) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
-4. ❗️ Closed issue [#90](https://github.com/bakito/sealed-secrets-web/issues/90) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
-5. 🗣 Commented on [#90](https://github.com/bakito/sealed-secrets-web/issues/90) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
+1. 🎉 Merged PR [#142](https://github.com/christianknell/helm-charts/pull/142) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🎉 Merged PR [#139](https://github.com/christianknell/helm-charts/pull/139) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🎉 Merged PR [#138](https://github.com/christianknell/helm-charts/pull/138) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 💪 Opened PR [#91](https://github.com/bakito/sealed-secrets-web/pull/91) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
+5. ❗️ Closed issue [#90](https://github.com/bakito/sealed-secrets-web/issues/90) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
 <!--END_SECTION:activity-->
