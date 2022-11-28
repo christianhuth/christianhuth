@@ -69,6 +69,9 @@
   <a href="certificates/gitops-at-scale.pdf" target="_blank">
     <img alt="GitOps at Scale" height="150px" width="150px" src="images/gitops-at-scale.png"/>
   </a>
+  <a href="https://www.credly.com/badges/2fac3977-d44b-4b19-a438-93a8d9926c10" target="_blank">
+    <img alt="YAML" height="150px" width="150px" src="images/yaml.png"/>
+  </a>
 </p>
 
 ## Me in the WWW
