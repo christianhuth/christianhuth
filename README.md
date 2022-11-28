@@ -119,9 +119,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#141](https://github.com/martin-helmich/prometheus-nginxlog-exporter/issues/141) in [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter)
-2. 🗣 Commented on [#209](https://github.com/martin-helmich/docker-typo3/issues/209) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
-3. ❗️ Opened issue [#151](https://github.com/christianknell/helm-charts/issues/151) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🗣 Commented on [#209](https://github.com/martin-helmich/docker-typo3/issues/209) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
-5. ❗️ Opened issue [#150](https://github.com/christianknell/helm-charts/issues/150) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🗣 Commented on [#209](https://github.com/martin-helmich/docker-typo3/issues/209) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
+2. 🗣 Commented on [#141](https://github.com/martin-helmich/prometheus-nginxlog-exporter/issues/141) in [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter)
+3. 🗣 Commented on [#209](https://github.com/martin-helmich/docker-typo3/issues/209) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
+4. ❗️ Opened issue [#151](https://github.com/christianknell/helm-charts/issues/151) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🗣 Commented on [#209](https://github.com/martin-helmich/docker-typo3/issues/209) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
 <!--END_SECTION:activity-->
