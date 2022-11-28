@@ -119,9 +119,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#149](https://github.com/christianknell/helm-charts/issues/149) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. ❗️ Opened issue [#148](https://github.com/christianknell/helm-charts/issues/148) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🎉 Merged PR [#146](https://github.com/christianknell/helm-charts/pull/146) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. ❗️ Opened issue [#147](https://github.com/christianknell/helm-charts/issues/147) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 💪 Opened PR [#146](https://github.com/christianknell/helm-charts/pull/146) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🗣 Commented on [#141](https://github.com/martin-helmich/prometheus-nginxlog-exporter/issues/141) in [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter)
+2. 🗣 Commented on [#209](https://github.com/martin-helmich/docker-typo3/issues/209) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
+3. ❗️ Opened issue [#151](https://github.com/christianknell/helm-charts/issues/151) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🗣 Commented on [#209](https://github.com/martin-helmich/docker-typo3/issues/209) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
+5. ❗️ Opened issue [#150](https://github.com/christianknell/helm-charts/issues/150) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
