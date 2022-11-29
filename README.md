@@ -119,9 +119,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/martin-helmich/docker-typo3/issues/209) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
-2. 🗣 Commented on [#209](https://github.com/martin-helmich/docker-typo3/issues/209) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
-3. 🎉 Merged PR [#153](https://github.com/christianknell/helm-charts/pull/153) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🗣 Commented on [#232](https://github.com/martin-helmich/docker-typo3/issues/232) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
+2. 🗣 Commented on [#229](https://github.com/martin-helmich/docker-typo3/issues/229) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
+3. 🗣 Commented on [#209](https://github.com/martin-helmich/docker-typo3/issues/209) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
 4. 🗣 Commented on [#209](https://github.com/martin-helmich/docker-typo3/issues/209) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
-5. 🗣 Commented on [#141](https://github.com/martin-helmich/prometheus-nginxlog-exporter/issues/141) in [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter)
+5. 🎉 Merged PR [#153](https://github.com/christianknell/helm-charts/pull/153) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
