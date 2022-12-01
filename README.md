@@ -122,9 +122,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#149](https://github.com/christianknell/helm-charts/issues/149) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. ❗️ Opened issue [#148](https://github.com/christianknell/helm-charts/issues/148) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🎉 Merged PR [#146](https://github.com/christianknell/helm-charts/pull/146) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. ❗️ Opened issue [#147](https://github.com/christianknell/helm-charts/issues/147) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 💪 Opened PR [#146](https://github.com/christianknell/helm-charts/pull/146) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🗣 Commented on [#92](https://github.com/bakito/sealed-secrets-web/issues/92) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
+2. ❗️ Opened issue [#3](https://github.com/christianknell/helm-templates-for-bitnami/issues/3) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
+3. ❗️ Opened issue [#2](https://github.com/christianknell/helm-templates-for-bitnami/issues/2) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
+4. ❗️ Opened issue [#1](https://github.com/christianknell/helm-templates-for-bitnami/issues/1) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
+5. 🗣 Commented on [#232](https://github.com/martin-helmich/docker-typo3/issues/232) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
 <!--END_SECTION:activity-->
