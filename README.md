@@ -122,9 +122,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/christianknell/helm-charts/pull/154) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#155](https://github.com/christianknell/helm-charts/pull/155) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🗣 Commented on [#92](https://github.com/bakito/sealed-secrets-web/issues/92) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
-4. ❗️ Opened issue [#3](https://github.com/christianknell/helm-templates-for-bitnami/issues/3) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
-5. ❗️ Opened issue [#2](https://github.com/christianknell/helm-templates-for-bitnami/issues/2) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
+1. 🎉 Merged PR [#156](https://github.com/christianknell/helm-charts/pull/156) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🎉 Merged PR [#154](https://github.com/christianknell/helm-charts/pull/154) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🎉 Merged PR [#155](https://github.com/christianknell/helm-charts/pull/155) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🗣 Commented on [#92](https://github.com/bakito/sealed-secrets-web/issues/92) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
+5. ❗️ Opened issue [#3](https://github.com/christianknell/helm-templates-for-bitnami/issues/3) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
 <!--END_SECTION:activity-->
