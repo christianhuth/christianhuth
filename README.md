@@ -119,9 +119,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#232](https://github.com/martin-helmich/docker-typo3/issues/232) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
-2. 🗣 Commented on [#229](https://github.com/martin-helmich/docker-typo3/issues/229) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
-3. 🗣 Commented on [#209](https://github.com/martin-helmich/docker-typo3/issues/209) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
-4. 🗣 Commented on [#209](https://github.com/martin-helmich/docker-typo3/issues/209) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
-5. 🎉 Merged PR [#153](https://github.com/christianknell/helm-charts/pull/153) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. ❗️ Opened issue [#3](https://github.com/christianknell/helm-templates-for-bitnami/issues/3) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
+2. ❗️ Opened issue [#2](https://github.com/christianknell/helm-templates-for-bitnami/issues/2) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
+3. ❗️ Opened issue [#1](https://github.com/christianknell/helm-templates-for-bitnami/issues/1) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
+4. 🗣 Commented on [#232](https://github.com/martin-helmich/docker-typo3/issues/232) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
+5. 🗣 Commented on [#229](https://github.com/martin-helmich/docker-typo3/issues/229) in [martin-helmich/docker-typo3](https://github.com/martin-helmich/docker-typo3)
 <!--END_SECTION:activity-->
