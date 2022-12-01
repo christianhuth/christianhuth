@@ -97,6 +97,9 @@
   <a href="mailto: christian@knell.it" target="_blank">
     <img alt="Mail" src="https://img.shields.io/badge/Mail-30B980?&style=flat-square&logo=minutemailer&logoColor=white" />
   </a>
+  <a href="https://cloud-native.social/@christianknell" target="_blank">
+    <img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?&style=flat-square&logo=mastodon&logoColor=white" />
+  </a>
   <a href="https://twitter.com/christianknell" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" />
   </a>
