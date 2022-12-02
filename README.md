@@ -122,9 +122,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#157](https://github.com/christianknell/helm-charts/pull/157) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#158](https://github.com/christianknell/helm-charts/pull/158) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🎉 Merged PR [#159](https://github.com/christianknell/helm-charts/pull/159) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🗣 Commented on [#141](https://github.com/martin-helmich/prometheus-nginxlog-exporter/issues/141) in [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter)
-5. 🎉 Merged PR [#156](https://github.com/christianknell/helm-charts/pull/156) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. ❗️ Closed issue [#46](https://github.com/klustair/klustair-helm/issues/46) in [klustair/klustair-helm](https://github.com/klustair/klustair-helm)
+2. 🗣 Commented on [#46](https://github.com/klustair/klustair-helm/issues/46) in [klustair/klustair-helm](https://github.com/klustair/klustair-helm)
+3. 🗣 Commented on [#42](https://github.com/klustair/klustair-helm/issues/42) in [klustair/klustair-helm](https://github.com/klustair/klustair-helm)
+4. 🎉 Merged PR [#157](https://github.com/christianknell/helm-charts/pull/157) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🎉 Merged PR [#158](https://github.com/christianknell/helm-charts/pull/158) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
