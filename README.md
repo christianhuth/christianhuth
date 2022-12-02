@@ -122,9 +122,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#158](https://github.com/christianknell/helm-charts/pull/158) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#159](https://github.com/christianknell/helm-charts/pull/159) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🗣 Commented on [#141](https://github.com/martin-helmich/prometheus-nginxlog-exporter/issues/141) in [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter)
-4. 🎉 Merged PR [#156](https://github.com/christianknell/helm-charts/pull/156) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#154](https://github.com/christianknell/helm-charts/pull/154) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🎉 Merged PR [#157](https://github.com/christianknell/helm-charts/pull/157) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🎉 Merged PR [#158](https://github.com/christianknell/helm-charts/pull/158) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🎉 Merged PR [#159](https://github.com/christianknell/helm-charts/pull/159) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🗣 Commented on [#141](https://github.com/martin-helmich/prometheus-nginxlog-exporter/issues/141) in [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter)
+5. 🎉 Merged PR [#156](https://github.com/christianknell/helm-charts/pull/156) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
