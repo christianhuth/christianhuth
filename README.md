@@ -122,9 +122,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#46](https://github.com/klustair/klustair-helm/issues/46) in [klustair/klustair-helm](https://github.com/klustair/klustair-helm)
-2. 🗣 Commented on [#46](https://github.com/klustair/klustair-helm/issues/46) in [klustair/klustair-helm](https://github.com/klustair/klustair-helm)
-3. 🗣 Commented on [#42](https://github.com/klustair/klustair-helm/issues/42) in [klustair/klustair-helm](https://github.com/klustair/klustair-helm)
-4. 🎉 Merged PR [#157](https://github.com/christianknell/helm-charts/pull/157) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#158](https://github.com/christianknell/helm-charts/pull/158) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. ❗️ Closed issue [#215](https://github.com/salesforce/sloop/issues/215) in [salesforce/sloop](https://github.com/salesforce/sloop)
+2. 🗣 Commented on [#215](https://github.com/salesforce/sloop/issues/215) in [salesforce/sloop](https://github.com/salesforce/sloop)
+3. ❗️ Closed issue [#88](https://github.com/christianknell/helm-charts/issues/88) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🗣 Commented on [#88](https://github.com/christianknell/helm-charts/issues/88) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🎉 Merged PR [#160](https://github.com/christianknell/helm-charts/pull/160) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
