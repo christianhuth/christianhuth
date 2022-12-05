@@ -39,23 +39,8 @@
   <a href="https://www.credly.com/badges/e1c83309-53af-4deb-988b-72c6a6d8f7ad" target="_blank">
     <img alt="KCNA: Kubernetes and Cloud Native Associate" height="150px" width="150px" src="images/kcna.png"/>
   </a>
-  <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
-    <img alt="PCA: Prometheus Certified Associate" height="150px" width="150px" src="images/pca.png"/>
-  </a>
-  <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
-    <img alt="LPIC-1 Linux Administrator" height="150px" width="150px" src="images/lpic-1.png"/>
-  </a>
-  <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
-    <img alt="LE-1: Linux Essentials" height="150px" width="150px" src="images/linux-essentials.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/f79d26b2-8dbc-4a70-9cf3-9c9ce388590c" target="_blank">
-    <img alt="HashiCorp Certified: Terraform Associate" height="150px" width="150px" src="images/terraform-associate.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/de27dcf9-82cf-4786-a573-e71266465565" target="_blank">
-    <img alt="HashiCorp Certified: Vault Associate" height="150px" width="150px" src="images/vault-associate.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/68c07833-84c5-43d5-afef-6e98938eab39" target="_blank">
-    <img alt="HashiCorp Certified: Consul Associate" height="150px" width="150px" src="images/consul-associate.png"/>
+  <a href="https://www.credly.com/badges/3b4c5a7e-20b2-4e4d-81f4-3c2759fc45c9" target="_blank">
+    <img alt="Red Hat® Certified Specialist in Containers and Kubernetes " height="150px" width="150px" src="images/redhat_certified_specialist_containers_and_kubernetes.png"/>
   </a>
   <a href="https://www.credly.com/badges/d3a3349a-caf3-4508-ba9a-ad02f81a8f7c" target="_blank">
     <img alt="AWS Certified Solutions Architect – Associate" height="150px" width="150px" src="images/aws-saa.png"/>
@@ -68,6 +53,24 @@
   </a>
   <a href="certificates/gitops-at-scale.pdf" target="_blank">
     <img alt="GitOps at Scale" height="150px" width="150px" src="images/gitops-at-scale.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
+    <img alt="PCA: Prometheus Certified Associate" height="150px" width="150px" src="images/pca.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/f79d26b2-8dbc-4a70-9cf3-9c9ce388590c" target="_blank">
+    <img alt="HashiCorp Certified: Terraform Associate" height="150px" width="150px" src="images/terraform-associate.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/de27dcf9-82cf-4786-a573-e71266465565" target="_blank">
+    <img alt="HashiCorp Certified: Vault Associate" height="150px" width="150px" src="images/vault-associate.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/68c07833-84c5-43d5-afef-6e98938eab39" target="_blank">
+    <img alt="HashiCorp Certified: Consul Associate" height="150px" width="150px" src="images/consul-associate.png"/>
+  </a>
+  <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
+    <img alt="LPIC-1 Linux Administrator" height="150px" width="150px" src="images/lpic-1.png"/>
+  </a>
+  <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
+    <img alt="LE-1: Linux Essentials" height="150px" width="150px" src="images/linux-essentials.png"/>
   </a>
   <a href="https://www.credly.com/badges/2fac3977-d44b-4b19-a438-93a8d9926c10" target="_blank">
     <img alt="YAML" height="150px" width="150px" src="images/yaml.png"/>
