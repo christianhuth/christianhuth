@@ -125,9 +125,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/christianknell/helm-templates-for-bitnami/issues/4) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
-2. 🎉 Merged PR [#162](https://github.com/christianknell/helm-charts/pull/162) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🎉 Merged PR [#161](https://github.com/christianknell/helm-charts/pull/161) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. ❗️ Closed issue [#215](https://github.com/salesforce/sloop/issues/215) in [salesforce/sloop](https://github.com/salesforce/sloop)
-5. 🗣 Commented on [#215](https://github.com/salesforce/sloop/issues/215) in [salesforce/sloop](https://github.com/salesforce/sloop)
+1. 🎉 Merged PR [#163](https://github.com/christianknell/helm-charts/pull/163) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. ❗️ Opened issue [#4](https://github.com/christianknell/helm-templates-for-bitnami/issues/4) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
+3. 🎉 Merged PR [#162](https://github.com/christianknell/helm-charts/pull/162) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🎉 Merged PR [#161](https://github.com/christianknell/helm-charts/pull/161) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. ❗️ Closed issue [#215](https://github.com/salesforce/sloop/issues/215) in [salesforce/sloop](https://github.com/salesforce/sloop)
 <!--END_SECTION:activity-->
