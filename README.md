@@ -125,9 +125,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#215](https://github.com/salesforce/sloop/issues/215) in [salesforce/sloop](https://github.com/salesforce/sloop)
-2. 🗣 Commented on [#215](https://github.com/salesforce/sloop/issues/215) in [salesforce/sloop](https://github.com/salesforce/sloop)
-3. ❗️ Closed issue [#88](https://github.com/christianknell/helm-charts/issues/88) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🗣 Commented on [#88](https://github.com/christianknell/helm-charts/issues/88) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#160](https://github.com/christianknell/helm-charts/pull/160) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🎉 Merged PR [#161](https://github.com/christianknell/helm-charts/pull/161) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. ❗️ Closed issue [#215](https://github.com/salesforce/sloop/issues/215) in [salesforce/sloop](https://github.com/salesforce/sloop)
+3. 🗣 Commented on [#215](https://github.com/salesforce/sloop/issues/215) in [salesforce/sloop](https://github.com/salesforce/sloop)
+4. ❗️ Closed issue [#88](https://github.com/christianknell/helm-charts/issues/88) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🗣 Commented on [#88](https://github.com/christianknell/helm-charts/issues/88) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
