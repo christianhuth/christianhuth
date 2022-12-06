@@ -125,9 +125,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#164](https://github.com/christianknell/helm-charts/issues/164) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#163](https://github.com/christianknell/helm-charts/pull/163) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. ❗️ Opened issue [#4](https://github.com/christianknell/helm-templates-for-bitnami/issues/4) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
-4. 🎉 Merged PR [#162](https://github.com/christianknell/helm-charts/pull/162) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#161](https://github.com/christianknell/helm-charts/pull/161) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. ❗️ Opened issue [#166](https://github.com/christianknell/helm-charts/issues/166) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. ❗️ Opened issue [#15](https://github.com/erohtar/Dasherr/issues/15) in [erohtar/Dasherr](https://github.com/erohtar/Dasherr)
+3. ❗️ Opened issue [#165](https://github.com/christianknell/helm-charts/issues/165) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. ❗️ Opened issue [#164](https://github.com/christianknell/helm-charts/issues/164) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🎉 Merged PR [#163](https://github.com/christianknell/helm-charts/pull/163) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
