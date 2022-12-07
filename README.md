@@ -125,9 +125,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/erohtar/Dasherr/issues/15) in [erohtar/Dasherr](https://github.com/erohtar/Dasherr)
-2. 🗣 Commented on [#165](https://github.com/christianknell/helm-charts/issues/165) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. ❗️ Opened issue [#3](https://github.com/h-mdm/hmdm-docker/issues/3) in [h-mdm/hmdm-docker](https://github.com/h-mdm/hmdm-docker)
-4. 🗣 Commented on [#15](https://github.com/erohtar/Dasherr/issues/15) in [erohtar/Dasherr](https://github.com/erohtar/Dasherr)
+1. 💪 Opened PR [#167](https://github.com/christianknell/helm-charts/pull/167) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🗣 Commented on [#15](https://github.com/erohtar/Dasherr/issues/15) in [erohtar/Dasherr](https://github.com/erohtar/Dasherr)
+3. 🗣 Commented on [#165](https://github.com/christianknell/helm-charts/issues/165) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. ❗️ Opened issue [#3](https://github.com/h-mdm/hmdm-docker/issues/3) in [h-mdm/hmdm-docker](https://github.com/h-mdm/hmdm-docker)
 5. 🗣 Commented on [#15](https://github.com/erohtar/Dasherr/issues/15) in [erohtar/Dasherr](https://github.com/erohtar/Dasherr)
 <!--END_SECTION:activity-->
