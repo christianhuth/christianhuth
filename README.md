@@ -125,9 +125,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/h-mdm/hmdm-docker/issues/3) in [h-mdm/hmdm-docker](https://github.com/h-mdm/hmdm-docker)
-2. 🎉 Merged PR [#183](https://github.com/christianknell/helm-charts/pull/183) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🎉 Merged PR [#179](https://github.com/christianknell/helm-charts/pull/179) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🎉 Merged PR [#182](https://github.com/christianknell/helm-charts/pull/182) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#180](https://github.com/christianknell/helm-charts/pull/180) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🗣 Commented on [#92](https://github.com/bakito/sealed-secrets-web/issues/92) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
+2. 🗣 Commented on [#3](https://github.com/h-mdm/hmdm-docker/issues/3) in [h-mdm/hmdm-docker](https://github.com/h-mdm/hmdm-docker)
+3. 🎉 Merged PR [#183](https://github.com/christianknell/helm-charts/pull/183) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🎉 Merged PR [#179](https://github.com/christianknell/helm-charts/pull/179) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🎉 Merged PR [#182](https://github.com/christianknell/helm-charts/pull/182) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
