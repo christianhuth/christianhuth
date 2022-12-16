@@ -125,9 +125,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#190](https://github.com/christianknell/helm-charts/pull/190) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#189](https://github.com/christianknell/helm-charts/pull/189) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🎉 Merged PR [#188](https://github.com/christianknell/helm-charts/pull/188) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🎉 Merged PR [#187](https://github.com/christianknell/helm-charts/pull/187) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. ❌ Closed PR [#185](https://github.com/christianknell/helm-charts/pull/185) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. ❗️ Opened issue [#5](https://github.com/h-mdm/hmdm-docker/issues/5) in [h-mdm/hmdm-docker](https://github.com/h-mdm/hmdm-docker)
+2. ❗️ Opened issue [#4](https://github.com/h-mdm/hmdm-docker/issues/4) in [h-mdm/hmdm-docker](https://github.com/h-mdm/hmdm-docker)
+3. 🎉 Merged PR [#190](https://github.com/christianknell/helm-charts/pull/190) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🎉 Merged PR [#189](https://github.com/christianknell/helm-charts/pull/189) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🎉 Merged PR [#188](https://github.com/christianknell/helm-charts/pull/188) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
