@@ -109,6 +109,9 @@
   <a href="https://cloud-native.social/@christianknell" target="_blank">
     <img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?&style=flat-square&logo=mastodon&logoColor=white" />
   </a>
+  <a href="https://christianknell.medium.com/" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=medium&logoColor=white" />
+  </a>
   <a href="https://twitter.com/christianknell" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" />
   </a>
