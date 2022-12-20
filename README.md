@@ -134,9 +134,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#194](https://github.com/christianknell/helm-charts/pull/194) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#193](https://github.com/christianknell/helm-charts/pull/193) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🗣 Commented on [#41](https://github.com/klustair/klustair-helm/issues/41) in [klustair/klustair-helm](https://github.com/klustair/klustair-helm)
-4. ❗️ Closed issue [#165](https://github.com/christianknell/helm-charts/issues/165) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#191](https://github.com/christianknell/helm-charts/pull/191) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. ❌ Closed PR [#192](https://github.com/christianknell/helm-charts/pull/192) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. ❌ Closed PR [#195](https://github.com/christianknell/helm-charts/pull/195) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🎉 Merged PR [#194](https://github.com/christianknell/helm-charts/pull/194) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🎉 Merged PR [#193](https://github.com/christianknell/helm-charts/pull/193) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🗣 Commented on [#41](https://github.com/klustair/klustair-helm/issues/41) in [klustair/klustair-helm](https://github.com/klustair/klustair-helm)
 <!--END_SECTION:activity-->
