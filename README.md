@@ -134,9 +134,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#196](https://github.com/christianknell/helm-charts/pull/196) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🗣 Commented on [#92](https://github.com/bakito/sealed-secrets-web/issues/92) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
-3. 🗣 Commented on [#15](https://github.com/erohtar/Dasherr/issues/15) in [erohtar/Dasherr](https://github.com/erohtar/Dasherr)
-4. ❌ Closed PR [#192](https://github.com/christianknell/helm-charts/pull/192) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. ❌ Closed PR [#195](https://github.com/christianknell/helm-charts/pull/195) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🎉 Merged PR [#197](https://github.com/christianknell/helm-charts/pull/197) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🎉 Merged PR [#196](https://github.com/christianknell/helm-charts/pull/196) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🗣 Commented on [#92](https://github.com/bakito/sealed-secrets-web/issues/92) in [bakito/sealed-secrets-web](https://github.com/bakito/sealed-secrets-web)
+4. 🗣 Commented on [#15](https://github.com/erohtar/Dasherr/issues/15) in [erohtar/Dasherr](https://github.com/erohtar/Dasherr)
+5. ❌ Closed PR [#192](https://github.com/christianknell/helm-charts/pull/192) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
