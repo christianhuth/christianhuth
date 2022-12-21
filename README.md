@@ -103,6 +103,9 @@
   <a href="https://www.linkedin.com/in/christianknell/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://openprofile.dev/profile/christian.knell" target="_blank">
+    <img alt="Linux Foundation" src="https://img.shields.io/badge/LinuxFoundation-003366?&style=flat-square&logo=linuxfoundation&logoColor=white"
+  </a>
   <a href="mailto: christian@knell.it" target="_blank">
     <img alt="Mail" src="https://img.shields.io/badge/Mail-30B980?&style=flat-square&logo=minutemailer&logoColor=white" />
   </a>
