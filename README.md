@@ -137,9 +137,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#28](https://github.com/kubevious/helm/issues/28) in [kubevious/helm](https://github.com/kubevious/helm)
-2. 🗣 Commented on [#71](https://github.com/kubevious/kubevious/issues/71) in [kubevious/kubevious](https://github.com/kubevious/kubevious)
-3. 🗣 Commented on [#2026](https://github.com/nicolargo/glances/issues/2026) in [nicolargo/glances](https://github.com/nicolargo/glances)
-4. ❗️ Opened issue [#2226](https://github.com/nicolargo/glances/issues/2226) in [nicolargo/glances](https://github.com/nicolargo/glances)
-5. 🎉 Merged PR [#207](https://github.com/christianknell/helm-charts/pull/207) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. ❌ Closed PR [#213](https://github.com/christianknell/helm-charts/pull/213) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. ❗️ Opened issue [#28](https://github.com/kubevious/helm/issues/28) in [kubevious/helm](https://github.com/kubevious/helm)
+3. 🗣 Commented on [#71](https://github.com/kubevious/kubevious/issues/71) in [kubevious/kubevious](https://github.com/kubevious/kubevious)
+4. 🗣 Commented on [#2026](https://github.com/nicolargo/glances/issues/2026) in [nicolargo/glances](https://github.com/nicolargo/glances)
+5. ❗️ Opened issue [#2226](https://github.com/nicolargo/glances/issues/2226) in [nicolargo/glances](https://github.com/nicolargo/glances)
 <!--END_SECTION:activity-->
