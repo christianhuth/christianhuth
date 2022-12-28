@@ -78,6 +78,9 @@
   <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
     <img alt="LE-1: Linux Essentials" height="150px" width="150px" src="images/linux_essentials.png"/>
   </a>
+  <a href="https://www.credly.com/badges/a46ba6ca-e821-41e6-99bd-59b4334d5c7d" target="_blank">
+    <img alt="Developing Helm Charts" height="150px" width="150px" src="images/helm.png"/>
+  </a>
   <a href="https://www.credly.com/badges/2fac3977-d44b-4b19-a438-93a8d9926c10" target="_blank">
     <img alt="YAML" height="150px" width="150px" src="images/yaml.png"/>
   </a>
