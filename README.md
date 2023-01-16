@@ -143,9 +143,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/christianknell/helm-templates-for-bitnami/issues/2) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
-2. 🗣 Commented on [#2](https://github.com/christianknell/helm-templates-for-bitnami/issues/2) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
-3. ❗️ Closed issue [#150](https://github.com/christianknell/helm-charts/issues/150) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. ❗️ Closed issue [#232](https://github.com/christianknell/helm-charts/issues/232) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🗣 Commented on [#232](https://github.com/christianknell/helm-charts/issues/232) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. ❗️ Opened issue [#287](https://github.com/christianknell/helm-charts/issues/287) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. ❗️ Closed issue [#2](https://github.com/christianknell/helm-templates-for-bitnami/issues/2) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
+3. 🗣 Commented on [#2](https://github.com/christianknell/helm-templates-for-bitnami/issues/2) in [christianknell/helm-templates-for-bitnami](https://github.com/christianknell/helm-templates-for-bitnami)
+4. ❗️ Closed issue [#150](https://github.com/christianknell/helm-charts/issues/150) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. ❗️ Closed issue [#232](https://github.com/christianknell/helm-charts/issues/232) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
