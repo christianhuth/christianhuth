@@ -42,20 +42,20 @@
   <a href="https://www.credly.com/badges/623460ae-bc90-43c1-8a93-2de8318dc840" target="_blank">
     <img alt="Fundamentals for Kyverno" height="150px" width="150px" src="images/fundamentals_for_kyverno.png"/>
   </a>
-  <a href="https://www.credly.com/badges/3b4c5a7e-20b2-4e4d-81f4-3c2759fc45c9" target="_blank">
-    <img alt="Red Hat® Certified Specialist in Containers and Kubernetes" height="150px" width="150px" src="images/redhat_certified_specialist_containers_and_kubernetes.png"/>
+  <a href="https://www.credly.com/badges/f8320d2b-babd-440d-9cad-3e7dac584d86" target="_blank">
+    <img alt="Red Hat® Certified Specialist in OpenShift Administration" height="150px" width="150px" src="images/redhat_certified_specialist_openshift_administration.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/7d6a8642-5075-4d70-a50d-93b3a70e75b0" target="_blank">
+    <img alt="Red Hat® Certified Specialist in OpenShift Data Foundation" height="150px" width="150px" src="images/redhat_certified_specialist_openshift_data_foundation.png"/>
   </a>
   <a href="https://www.credly.com/badges/fb0c442e-c880-4e6d-b97d-2baf8445cf20" target="_blank">
     <img alt="Red Hat® Certified Specialist in OpenShift Application Development" height="150px" width="150px" src="images/redhat_certified_specialist_openshift_application_development.png"/>
   </a>
-  <a href="https://www.credly.com/badges/f8320d2b-babd-440d-9cad-3e7dac584d86" target="_blank">
-    <img alt="Red Hat® Certified Specialist in OpenShift Administration" height="150px" width="150px" src="images/redhat_certified_specialist_openshift_administration.png"/>
+  <a href="https://www.credly.com/badges/3b4c5a7e-20b2-4e4d-81f4-3c2759fc45c9" target="_blank">
+    <img alt="Red Hat® Certified Specialist in Containers and Kubernetes" height="150px" width="150px" src="images/redhat_certified_specialist_containers_and_kubernetes.png"/>
   </a>
-  <a href="certificates/gitops-fundamentals.pdf" target="_blank">
-    <img alt="GitOps Fundamentals" height="150px" width="150px" src="images/gitops_fundamentals.png"/>
-  </a>
-  <a href="certificates/gitops-at-scale.pdf" target="_blank">
-    <img alt="GitOps at Scale" height="150px" width="150px" src="images/gitops_at_scale.png"/>
+  <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
+    <img alt="PCA: Prometheus Certified Associate" height="150px" width="150px" src="images/pca.png"/>
   </a>
   <a href="https://www.credly.com/badges/d3a3349a-caf3-4508-ba9a-ad02f81a8f7c" target="_blank">
     <img alt="AWS Certified Solutions Architect – Associate" height="150px" width="150px" src="images/aws-saa.png"/>
@@ -72,8 +72,11 @@
   <a href="https://www.credly.com/badges/68c07833-84c5-43d5-afef-6e98938eab39" target="_blank">
     <img alt="HashiCorp Certified: Consul Associate" height="150px" width="150px" src="images/consul_associate.png"/>
   </a>
-  <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
-    <img alt="PCA: Prometheus Certified Associate" height="150px" width="150px" src="images/pca.png"/>
+  <a href="certificates/gitops-fundamentals.pdf" target="_blank">
+    <img alt="GitOps Fundamentals" height="150px" width="150px" src="images/gitops_fundamentals.png"/>
+  </a>
+  <a href="certificates/gitops-at-scale.pdf" target="_blank">
+    <img alt="GitOps at Scale" height="150px" width="150px" src="images/gitops_at_scale.png"/>
   </a>
   <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
     <img alt="LPIC-1 Linux Administrator" height="150px" width="150px" src="images/lpic_1.png"/>
