@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#324](https://github.com/christianknell/helm-charts/issues/324) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#319](https://github.com/christianknell/helm-charts/pull/319) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. ❌ Closed PR [#323](https://github.com/christianknell/helm-charts/pull/323) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🎉 Merged PR [#321](https://github.com/christianknell/helm-charts/pull/321) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#322](https://github.com/christianknell/helm-charts/pull/322) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🗣 Commented on [#324](https://github.com/christianknell/helm-charts/issues/324) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🎉 Merged PR [#319](https://github.com/christianknell/helm-charts/pull/319) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. ❌ Closed PR [#323](https://github.com/christianknell/helm-charts/pull/323) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🎉 Merged PR [#321](https://github.com/christianknell/helm-charts/pull/321) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
