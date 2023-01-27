@@ -146,9 +146,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#329](https://github.com/christianknell/helm-charts/pull/329) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. ❗️ Opened issue [#326](https://github.com/christianknell/helm-charts/issues/326) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🗣 Commented on [#1727](https://github.com/umami-software/umami/issues/1727) in [umami-software/umami](https://github.com/umami-software/umami)
-4. 🎉 Merged PR [#325](https://github.com/christianknell/helm-charts/pull/325) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🗣 Commented on [#324](https://github.com/christianknell/helm-charts/issues/324) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🎉 Merged PR [#327](https://github.com/christianknell/helm-charts/pull/327) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🎉 Merged PR [#332](https://github.com/christianknell/helm-charts/pull/332) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🎉 Merged PR [#329](https://github.com/christianknell/helm-charts/pull/329) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. ❗️ Opened issue [#326](https://github.com/christianknell/helm-charts/issues/326) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🗣 Commented on [#1727](https://github.com/umami-software/umami/issues/1727) in [umami-software/umami](https://github.com/umami-software/umami)
 <!--END_SECTION:activity-->
