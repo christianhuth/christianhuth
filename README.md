@@ -28,16 +28,16 @@
 ### Certifications
 <p>
   <a href="https://www.credly.com/badges/87ec89fc-b49e-4ab9-a415-823631702437" target="_blank">
-    <img alt="CKS: Certified Kubernetes Security Specialist" height="150px" width="150px" src="images/cks.png"/>
+    <img alt="Certified Kubernetes Security Specialist (CKS)" height="150px" width="150px" src="images/cks.png"/>
   </a>
   <a href="https://www.credly.com/badges/640e6244-0eb2-45b4-978f-4227bb023d1d" target="_blank">
-    <img alt="CKA: Certified Kubernetes Administrator" height="150px" width="150px" src="images/cka.png"/>
+    <img alt="Certified Kubernetes Administrator (CKA)" height="150px" width="150px" src="images/cka.png"/>
   </a>
   <a href="https://www.credly.com/badges/1e2dc1de-e3f8-42c3-8b61-707f95044bad" target="_blank">
-    <img alt="CKAD: Certified Kubernetes Application Developer" height="150px" width="150px" src="images/ckad.png"/>
+    <img alt="Certified Kubernetes Application Developer (CKAD)" height="150px" width="150px" src="images/ckad.png"/>
   </a>
   <a href="https://www.credly.com/badges/e1c83309-53af-4deb-988b-72c6a6d8f7ad" target="_blank">
-    <img alt="KCNA: Kubernetes and Cloud Native Associate" height="150px" width="150px" src="images/kcna.png"/>
+    <img alt="Kubernetes and Cloud Native Associate (KCNA)" height="150px" width="150px" src="images/kcna.png"/>
   </a>
   <a href="https://www.credly.com/badges/623460ae-bc90-43c1-8a93-2de8318dc840" target="_blank">
     <img alt="Fundamentals for Kyverno" height="150px" width="150px" src="images/fundamentals_for_kyverno.png"/>
@@ -55,7 +55,7 @@
     <img alt="Red Hat® Certified Specialist in Containers and Kubernetes" height="150px" width="150px" src="images/redhat_certified_specialist_containers_and_kubernetes.png"/>
   </a>
   <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
-    <img alt="PCA: Prometheus Certified Associate" height="150px" width="150px" src="images/pca.png"/>
+    <img alt="Prometheus Certified Associate (PCA)" height="150px" width="150px" src="images/pca.png"/>
   </a>
   <a href="https://www.credly.com/badges/d3a3349a-caf3-4508-ba9a-ad02f81a8f7c" target="_blank">
     <img alt="AWS Certified Solutions Architect – Associate" height="150px" width="150px" src="images/aws-saa.png"/>
@@ -82,13 +82,16 @@
     <img alt="LPIC-1 Linux Administrator" height="150px" width="150px" src="images/lpic_1.png"/>
   </a>
   <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
-    <img alt="LE-1: Linux Essentials" height="150px" width="150px" src="images/linux_essentials.png"/>
+    <img alt="Linux Essentials (LE-1)" height="150px" width="150px" src="images/linux_essentials.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/657004bf-4304-47bb-94ab-2b77d47da0c3" target="_blank">
+    <img alt="Linux Foundation Certified IT Associate (LFCA)" height="150px" width="150px" src="images/lfca.png"/>
   </a>
   <a href="https://www.credly.com/badges/a46ba6ca-e821-41e6-99bd-59b4334d5c7d" target="_blank">
-    <img alt="Developing Helm Charts" height="150px" width="150px" src="images/helm.png"/>
+    <img alt="Developing Helm Charts (SC104=" height="150px" width="150px" src="images/helm.png"/>
   </a>
   <a href="https://www.credly.com/badges/2fac3977-d44b-4b19-a438-93a8d9926c10" target="_blank">
-    <img alt="YAML" height="150px" width="150px" src="images/yaml.png"/>
+    <img alt="Open Data Foramts YAML (SC101)" height="150px" width="150px" src="images/yaml.png"/>
   </a>
 </p>
 
