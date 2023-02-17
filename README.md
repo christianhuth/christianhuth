@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<p>I'm Chris, a Cloud Native and DevOps Engineer, Solution Architect and IT-Coach based in <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE%403x.png?raw=true' width='21' height='15'> <b>Nürnberg, Germany</b>.</p>
+<p>I'm Chris, a Senior Cloud Native Architect and Engineer, as well as an IT-Coach based in <img src='https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/DE%403x.png?raw=true' width='21' height='15'> <b>Nürnberg, Germany</b>.</p>
 
 ## Main Areas of Interest
 <p>
