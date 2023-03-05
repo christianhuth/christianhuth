@@ -149,9 +149,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#459](https://github.com/christianknell/helm-charts/pull/459) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. ❌ Closed PR [#464](https://github.com/christianknell/helm-charts/pull/464) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. ❌ Closed PR [#460](https://github.com/christianknell/helm-charts/pull/460) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. ❌ Closed PR [#456](https://github.com/christianknell/helm-charts/pull/456) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. ❌ Closed PR [#457](https://github.com/christianknell/helm-charts/pull/457) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🗣 Commented on [#393](https://github.com/skooner-k8s/skooner/issues/393) in [skooner-k8s/skooner](https://github.com/skooner-k8s/skooner)
+2. 🎉 Merged PR [#441](https://github.com/christianknell/helm-charts/pull/441) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🎉 Merged PR [#458](https://github.com/christianknell/helm-charts/pull/458) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🎉 Merged PR [#455](https://github.com/christianknell/helm-charts/pull/455) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🎉 Merged PR [#459](https://github.com/christianknell/helm-charts/pull/459) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
