@@ -149,9 +149,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#502](https://github.com/christianknell/helm-charts/pull/502) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. ❗️ Opened issue [#481](https://github.com/argoproj-labs/argocd-vault-plugin/issues/481) in [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)
-3. ❗️ Opened issue [#12946](https://github.com/argoproj/argo-cd/issues/12946) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. 🎉 Merged PR [#512](https://github.com/christianknell/helm-charts/pull/512) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#513](https://github.com/christianknell/helm-charts/pull/513) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. ❌ Closed PR [#498](https://github.com/christianknell/helm-charts/pull/498) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. ❌ Closed PR [#499](https://github.com/christianknell/helm-charts/pull/499) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. ❌ Closed PR [#504](https://github.com/christianknell/helm-charts/pull/504) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. ❌ Closed PR [#500](https://github.com/christianknell/helm-charts/pull/500) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🎉 Merged PR [#502](https://github.com/christianknell/helm-charts/pull/502) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
