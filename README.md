@@ -149,9 +149,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#521](https://github.com/christianknell/helm-charts/pull/521) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. ❗️ Closed issue [#481](https://github.com/argoproj-labs/argocd-vault-plugin/issues/481) in [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)
-3. 🗣 Commented on [#481](https://github.com/argoproj-labs/argocd-vault-plugin/issues/481) in [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)
-4. ❌ Closed PR [#498](https://github.com/christianknell/helm-charts/pull/498) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. ❌ Closed PR [#499](https://github.com/christianknell/helm-charts/pull/499) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🎉 Merged PR [#517](https://github.com/christianknell/helm-charts/pull/517) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🗣 Commented on [#12946](https://github.com/argoproj/argo-cd/issues/12946) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+3. 🎉 Merged PR [#521](https://github.com/christianknell/helm-charts/pull/521) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. ❗️ Closed issue [#481](https://github.com/argoproj-labs/argocd-vault-plugin/issues/481) in [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)
+5. 🗣 Commented on [#481](https://github.com/argoproj-labs/argocd-vault-plugin/issues/481) in [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin)
 <!--END_SECTION:activity-->
