@@ -149,9 +149,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Reopened issue [#14](https://github.com/christianknell/helm-charts/issues/14) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🔒 Reopened issue [#33](https://github.com/christianknell/helm-charts/issues/33) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🔒 Reopened issue [#37](https://github.com/christianknell/helm-charts/issues/37) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🔒 Reopened issue [#86](https://github.com/christianknell/helm-charts/issues/86) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#731](https://github.com/christianknell/helm-charts/pull/731) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🎉 Merged PR [#732](https://github.com/christianknell/helm-charts/pull/732) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🔒 Reopened issue [#14](https://github.com/christianknell/helm-charts/issues/14) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🔒 Reopened issue [#33](https://github.com/christianknell/helm-charts/issues/33) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🔒 Reopened issue [#37](https://github.com/christianknell/helm-charts/issues/37) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🔒 Reopened issue [#86](https://github.com/christianknell/helm-charts/issues/86) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
