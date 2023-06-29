@@ -149,9 +149,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Reopened issue [#539](https://github.com/christianknell/helm-charts/issues/539) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#778](https://github.com/christianknell/helm-charts/pull/778) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. ❗ Opened issue [#777](https://github.com/christianknell/helm-charts/issues/777) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🗣 Commented on [#1123](https://github.com/ansible-semaphore/semaphore/issues/1123) in [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
-5. 🎉 Merged PR [#776](https://github.com/christianknell/helm-charts/pull/776) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🎉 Merged PR [#780](https://github.com/christianknell/helm-charts/pull/780) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🔒 Reopened issue [#539](https://github.com/christianknell/helm-charts/issues/539) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🎉 Merged PR [#778](https://github.com/christianknell/helm-charts/pull/778) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. ❗ Opened issue [#777](https://github.com/christianknell/helm-charts/issues/777) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🗣 Commented on [#1123](https://github.com/ansible-semaphore/semaphore/issues/1123) in [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore)
 <!--END_SECTION:activity-->
