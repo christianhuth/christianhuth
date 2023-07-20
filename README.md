@@ -54,8 +54,8 @@
   <a href="https://www.credly.com/badges/3b4c5a7e-20b2-4e4d-81f4-3c2759fc45c9" target="_blank">
     <img alt="Red Hat® Certified Specialist in Containers and Kubernetes" height="150px" width="150px" src="images/redhat_certified_specialist_containers_and_kubernetes.png"/>
   </a>
-  <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
-    <img alt="Prometheus Certified Associate (PCA)" height="150px" width="150px" src="images/pca.png"/>
+  <a href="https://www.credly.com/badges/a9f21792-89dd-4e55-9832-747a36a2c404" target="_blank">
+    <img alt="Linux Foundation Certified Cloud Technician (LFCT)" height="150px" width="150px" src="images/lfct.png"/>
   </a>
   <a href="https://www.credly.com/badges/d3a3349a-caf3-4508-ba9a-ad02f81a8f7c" target="_blank">
     <img alt="AWS Certified Solutions Architect – Associate" height="150px" width="150px" src="images/aws-saa.png"/>
@@ -71,6 +71,9 @@
   </a>
   <a href="https://www.credly.com/badges/68c07833-84c5-43d5-afef-6e98938eab39" target="_blank">
     <img alt="HashiCorp Certified: Consul Associate" height="150px" width="150px" src="images/consul_associate.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
+    <img alt="Prometheus Certified Associate (PCA)" height="150px" width="150px" src="images/pca.png"/>
   </a>
   <a href="certificates/gitops-fundamentals.pdf" target="_blank">
     <img alt="GitOps Fundamentals" height="150px" width="150px" src="images/gitops_fundamentals.png"/>
