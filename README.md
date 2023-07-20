@@ -39,8 +39,8 @@
   <a href="https://www.credly.com/badges/e1c83309-53af-4deb-988b-72c6a6d8f7ad" target="_blank">
     <img alt="Kubernetes and Cloud Native Associate (KCNA)" height="150px" width="150px" src="images/kcna.png"/>
   </a>
-  <a href="https://www.credly.com/badges/623460ae-bc90-43c1-8a93-2de8318dc840" target="_blank">
-    <img alt="Fundamentals for Kyverno" height="150px" width="150px" src="images/fundamentals_for_kyverno.png"/>
+  <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
+    <img alt="Prometheus Certified Associate (PCA)" height="150px" width="150px" src="images/pca.png"/>
   </a>
   <a href="https://www.credly.com/badges/f8320d2b-babd-440d-9cad-3e7dac584d86" target="_blank">
     <img alt="Red Hat® Certified Specialist in OpenShift Administration" height="150px" width="150px" src="images/redhat_certified_specialist_openshift_administration.png"/>
@@ -72,14 +72,14 @@
   <a href="https://www.credly.com/badges/68c07833-84c5-43d5-afef-6e98938eab39" target="_blank">
     <img alt="HashiCorp Certified: Consul Associate" height="150px" width="150px" src="images/consul_associate.png"/>
   </a>
-  <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
-    <img alt="Prometheus Certified Associate (PCA)" height="150px" width="150px" src="images/pca.png"/>
-  </a>
   <a href="certificates/gitops-fundamentals.pdf" target="_blank">
     <img alt="GitOps Fundamentals" height="150px" width="150px" src="images/gitops_fundamentals.png"/>
   </a>
   <a href="certificates/gitops-at-scale.pdf" target="_blank">
     <img alt="GitOps at Scale" height="150px" width="150px" src="images/gitops_at_scale.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/623460ae-bc90-43c1-8a93-2de8318dc840" target="_blank">
+    <img alt="Fundamentals for Kyverno" height="150px" width="150px" src="images/fundamentals_for_kyverno.png"/>
   </a>
   <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
     <img alt="LPIC-1 Linux Administrator" height="150px" width="150px" src="images/lpic_1.png"/>
