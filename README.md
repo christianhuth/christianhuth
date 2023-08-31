@@ -155,9 +155,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#945](https://github.com/christianknell/helm-charts/pull/945) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. ❗ Opened issue [#342](https://github.com/chgl/kube-powertools/issues/342) in [chgl/kube-powertools](https://github.com/chgl/kube-powertools)
-3. ❗ Opened issue [#341](https://github.com/chgl/kube-powertools/issues/341) in [chgl/kube-powertools](https://github.com/chgl/kube-powertools)
-4. 🎉 Merged PR [#946](https://github.com/christianknell/helm-charts/pull/946) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#944](https://github.com/christianknell/helm-charts/pull/944) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🎉 Merged PR [#943](https://github.com/christianknell/helm-charts/pull/943) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🎉 Merged PR [#942](https://github.com/christianknell/helm-charts/pull/942) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🎉 Merged PR [#945](https://github.com/christianknell/helm-charts/pull/945) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. ❗ Opened issue [#342](https://github.com/chgl/kube-powertools/issues/342) in [chgl/kube-powertools](https://github.com/chgl/kube-powertools)
+5. ❗ Opened issue [#341](https://github.com/chgl/kube-powertools/issues/341) in [chgl/kube-powertools](https://github.com/chgl/kube-powertools)
 <!--END_SECTION:activity-->
