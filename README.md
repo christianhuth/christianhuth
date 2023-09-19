@@ -90,11 +90,14 @@
   <a href="https://www.credly.com/badges/a9f21792-89dd-4e55-9832-747a36a2c404" target="_blank">
     <img alt="Linux Foundation Certified Cloud Technician (LFCT)" height="150px" width="150px" src="images/lfct.png"/>
   </a>
-  <a href="https://www.credly.com/badges/657004bf-4304-47bb-94ab-2b77d47da0c3" target="_blank">
-    <img alt="Linux Foundation Certified IT Associate (LFCA)" height="150px" width="150px" src="images/lfca.png"/>
-  </a>
   <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
     <img alt="LPIC-1 Linux Administrator" height="150px" width="150px" src="images/lpic_1.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/f92e7f4b-2b48-4325-a386-f1a6120a71ff" target="_blank">
+    <img alt="Linux Foundation Certified Systems Administrator (LFCS)" height="150px" width="150px" src="images/lfcs.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/657004bf-4304-47bb-94ab-2b77d47da0c3" target="_blank">
+    <img alt="Linux Foundation Certified IT Associate (LFCA)" height="150px" width="150px" src="images/lfca.png"/>
   </a>
   <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
     <img alt="Linux Essentials (LE-1)" height="150px" width="150px" src="images/linux_essentials.png"/>
