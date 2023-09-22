@@ -158,9 +158,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#970](https://github.com/christianknell/helm-charts/pull/970) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#975](https://github.com/christianknell/helm-charts/pull/975) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🎉 Merged PR [#971](https://github.com/christianknell/helm-charts/pull/971) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. ❌ Closed PR [#969](https://github.com/christianknell/helm-charts/pull/969) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#972](https://github.com/christianknell/helm-charts/pull/972) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🎉 Merged PR [#980](https://github.com/christianknell/helm-charts/pull/980) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🎉 Merged PR [#970](https://github.com/christianknell/helm-charts/pull/970) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🎉 Merged PR [#975](https://github.com/christianknell/helm-charts/pull/975) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🎉 Merged PR [#971](https://github.com/christianknell/helm-charts/pull/971) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. ❌ Closed PR [#969](https://github.com/christianknell/helm-charts/pull/969) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
