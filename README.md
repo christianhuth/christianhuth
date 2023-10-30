@@ -158,9 +158,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#494](https://github.com/gravitee-io/gravitee-kubernetes-operator/pull/494) in [gravitee-io/gravitee-kubernetes-operator](https://github.com/gravitee-io/gravitee-kubernetes-operator)
-2. ❗ Opened issue [#1046](https://github.com/akuity/kargo/issues/1046) in [akuity/kargo](https://github.com/akuity/kargo)
-3. 🗣 Commented on [#4527](https://github.com/kubeshop/testkube/issues/4527#issuecomment-1781825419) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
-4. ❗ Opened issue [#4527](https://github.com/kubeshop/testkube/issues/4527) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
-5. 🗣 Commented on [#1002](https://github.com/christianknell/helm-charts/pull/1002#issuecomment-1774183064) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🎉 Merged PR [#1015](https://github.com/christianknell/helm-charts/pull/1015) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🔒 Closed issue [#1046](https://github.com/akuity/kargo/issues/1046) in [akuity/kargo](https://github.com/akuity/kargo)
+3. 🗣 Commented on [#1046](https://github.com/akuity/kargo/issues/1046#issuecomment-1785494252) in [akuity/kargo](https://github.com/akuity/kargo)
+4. 💪 Opened PR [#494](https://github.com/gravitee-io/gravitee-kubernetes-operator/pull/494) in [gravitee-io/gravitee-kubernetes-operator](https://github.com/gravitee-io/gravitee-kubernetes-operator)
+5. ❗ Opened issue [#1046](https://github.com/akuity/kargo/issues/1046) in [akuity/kargo](https://github.com/akuity/kargo)
 <!--END_SECTION:activity-->
