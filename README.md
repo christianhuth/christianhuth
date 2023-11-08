@@ -158,9 +158,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1013](https://github.com/christianknell/helm-charts/pull/1013) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#1017](https://github.com/christianknell/helm-charts/pull/1017) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. ❗ Opened issue [#1020](https://github.com/christianknell/helm-charts/issues/1020) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🎉 Merged PR [#1012](https://github.com/christianknell/helm-charts/pull/1012) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🗣 Commented on [#651](https://github.com/christianknell/helm-charts/issues/651#issuecomment-1785554988) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🗣 Commented on [#494](https://github.com/gravitee-io/gravitee-kubernetes-operator/pull/494#issuecomment-1801401836) in [gravitee-io/gravitee-kubernetes-operator](https://github.com/gravitee-io/gravitee-kubernetes-operator)
+2. 🎉 Merged PR [#1](https://github.com/christianknell/gravitee-kubernetes-operator/pull/1) in [christianknell/gravitee-kubernetes-operator](https://github.com/christianknell/gravitee-kubernetes-operator)
+3. 🎉 Merged PR [#1013](https://github.com/christianknell/helm-charts/pull/1013) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🎉 Merged PR [#1017](https://github.com/christianknell/helm-charts/pull/1017) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. ❗ Opened issue [#1020](https://github.com/christianknell/helm-charts/issues/1020) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
