@@ -158,9 +158,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#494](https://github.com/gravitee-io/gravitee-kubernetes-operator/pull/494#issuecomment-1801811664) in [gravitee-io/gravitee-kubernetes-operator](https://github.com/gravitee-io/gravitee-kubernetes-operator)
-2. 🗣 Commented on [#494](https://github.com/gravitee-io/gravitee-kubernetes-operator/pull/494#issuecomment-1801625011) in [gravitee-io/gravitee-kubernetes-operator](https://github.com/gravitee-io/gravitee-kubernetes-operator)
-3. 🗣 Commented on [#494](https://github.com/gravitee-io/gravitee-kubernetes-operator/pull/494#issuecomment-1801401836) in [gravitee-io/gravitee-kubernetes-operator](https://github.com/gravitee-io/gravitee-kubernetes-operator)
-4. 🎉 Merged PR [#1](https://github.com/christianknell/gravitee-kubernetes-operator/pull/1) in [christianknell/gravitee-kubernetes-operator](https://github.com/christianknell/gravitee-kubernetes-operator)
-5. 🎉 Merged PR [#1013](https://github.com/christianknell/helm-charts/pull/1013) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🎉 Merged PR [#1022](https://github.com/christianknell/helm-charts/pull/1022) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🗣 Commented on [#1023](https://github.com/christianknell/helm-charts/issues/1023#issuecomment-1817504766) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🗣 Commented on [#494](https://github.com/gravitee-io/gravitee-kubernetes-operator/pull/494#issuecomment-1801811664) in [gravitee-io/gravitee-kubernetes-operator](https://github.com/gravitee-io/gravitee-kubernetes-operator)
+4. 🗣 Commented on [#494](https://github.com/gravitee-io/gravitee-kubernetes-operator/pull/494#issuecomment-1801625011) in [gravitee-io/gravitee-kubernetes-operator](https://github.com/gravitee-io/gravitee-kubernetes-operator)
+5. 🗣 Commented on [#494](https://github.com/gravitee-io/gravitee-kubernetes-operator/pull/494#issuecomment-1801401836) in [gravitee-io/gravitee-kubernetes-operator](https://github.com/gravitee-io/gravitee-kubernetes-operator)
 <!--END_SECTION:activity-->
