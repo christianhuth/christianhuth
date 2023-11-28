@@ -158,9 +158,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1021](https://github.com/christianknell/helm-charts/pull/1021) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#1022](https://github.com/christianknell/helm-charts/pull/1022) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🗣 Commented on [#1023](https://github.com/christianknell/helm-charts/issues/1023#issuecomment-1817504766) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🗣 Commented on [#494](https://github.com/gravitee-io/gravitee-kubernetes-operator/pull/494#issuecomment-1801811664) in [gravitee-io/gravitee-kubernetes-operator](https://github.com/gravitee-io/gravitee-kubernetes-operator)
-5. 🗣 Commented on [#494](https://github.com/gravitee-io/gravitee-kubernetes-operator/pull/494#issuecomment-1801625011) in [gravitee-io/gravitee-kubernetes-operator](https://github.com/gravitee-io/gravitee-kubernetes-operator)
+1. ❗ Opened issue [#4690](https://github.com/kubeshop/testkube/issues/4690) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
+2. 🎉 Merged PR [#1021](https://github.com/christianknell/helm-charts/pull/1021) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🎉 Merged PR [#1022](https://github.com/christianknell/helm-charts/pull/1022) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🗣 Commented on [#1023](https://github.com/christianknell/helm-charts/issues/1023#issuecomment-1817504766) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🗣 Commented on [#494](https://github.com/gravitee-io/gravitee-kubernetes-operator/pull/494#issuecomment-1801811664) in [gravitee-io/gravitee-kubernetes-operator](https://github.com/gravitee-io/gravitee-kubernetes-operator)
 <!--END_SECTION:activity-->
