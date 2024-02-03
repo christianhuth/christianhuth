@@ -158,9 +158,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3141](https://github.com/artifacthub/hub/issues/3141#issuecomment-1870273621) in [artifacthub/hub](https://github.com/artifacthub/hub)
-2. 🗣 Commented on [#4690](https://github.com/kubeshop/testkube/issues/4690#issuecomment-1830110932) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
-3. ❗ Opened issue [#4690](https://github.com/kubeshop/testkube/issues/4690) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
-4. 🎉 Merged PR [#1021](https://github.com/christianknell/helm-charts/pull/1021) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#1022](https://github.com/christianknell/helm-charts/pull/1022) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. 🎉 Merged PR [#1030](https://github.com/christianknell/helm-charts/pull/1030) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🗣 Commented on [#3141](https://github.com/artifacthub/hub/issues/3141#issuecomment-1870273621) in [artifacthub/hub](https://github.com/artifacthub/hub)
+3. 🗣 Commented on [#4690](https://github.com/kubeshop/testkube/issues/4690#issuecomment-1830110932) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
+4. ❗ Opened issue [#4690](https://github.com/kubeshop/testkube/issues/4690) in [kubeshop/testkube](https://github.com/kubeshop/testkube)
+5. 🎉 Merged PR [#1021](https://github.com/christianknell/helm-charts/pull/1021) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
