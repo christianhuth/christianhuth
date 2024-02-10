@@ -158,9 +158,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1036](https://github.com/christianknell/helm-charts/pull/1036#issuecomment-1936980867) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-2. 🎉 Merged PR [#1036](https://github.com/christianknell/helm-charts/pull/1036) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-3. 🎉 Merged PR [#1027](https://github.com/christianknell/helm-charts/pull/1027) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-4. 🎉 Merged PR [#1032](https://github.com/christianknell/helm-charts/pull/1032) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
-5. 🎉 Merged PR [#1039](https://github.com/christianknell/helm-charts/pull/1039) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+1. ❌ Closed PR [#1018](https://github.com/christianknell/helm-charts/pull/1018) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+2. 🗣 Commented on [#651](https://github.com/christianknell/helm-charts/issues/651#issuecomment-1936988631) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+3. 🗣 Commented on [#1037](https://github.com/christianknell/helm-charts/issues/1037#issuecomment-1936988475) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+4. 🔒 Closed issue [#1037](https://github.com/christianknell/helm-charts/issues/1037) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
+5. 🗣 Commented on [#1024](https://github.com/christianknell/helm-charts/issues/1024#issuecomment-1936988364) in [christianknell/helm-charts](https://github.com/christianknell/helm-charts)
 <!--END_SECTION:activity-->
