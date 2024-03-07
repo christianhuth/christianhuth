@@ -133,7 +133,7 @@
   <a href="https://cloud-native.social/@christianknell" target="_blank">
     <img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?&style=flat-square&logo=mastodon&logoColor=white" />
   </a>
-  <a href="https://christianknell.medium.com/" target="_blank">
+  <a href="https://christian-huth.medium.com/" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=medium&logoColor=white" />
   </a>
   <a href="https://twitter.com/huthcn" target="_blank">
