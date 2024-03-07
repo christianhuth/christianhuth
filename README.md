@@ -142,7 +142,7 @@
   <a href="https://udemy.com/user/christian-knell" target="_blank">
     <img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?&style=flat-square&logo=udemy&logoColor=white" />
   </a>
-  <a href="https://www.xing.com/profile/Christian_Knell" target="_blank">
+  <a href="https://www.xing.com/profile/Christian_HuthgebKnell" target="_blank">
     <img alt="XING" src="https://img.shields.io/badge/XING-006567?&style=flat-square&logo=xing&logoColor=white" />
   </a>
 </p>
