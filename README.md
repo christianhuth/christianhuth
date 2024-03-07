@@ -106,22 +106,22 @@
 
 ## Me in the WWW
 <p>
-  <a href="https://artifacthub.io/packages/search?repo=christianknell" target="_blank">
+  <a href="https://artifacthub.io/packages/search?repo=christianhuth" target="_blank">
     <img alt="ArtifactHub" src="https://img.shields.io/badge/ArtifactHub-417598?&style=flat-square&logo=artifacthub&logoColor=white" />
   </a>
-  <a href="https://blog.knell.it" target="_blank">
+  <a href="https://christianhuth.de" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-15171A?&style=flat-square&logo=ghost&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/users/christianknell/" target="_blank">
+  <a href="https://www.credly.com/users/christianhuth/" target="_blank">
     <img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00?&style=flat-square&logo=credly&logoColor=white" />
   </a>
-  <a href="https://github.com/christianknell" target="_blank">
+  <a href="https://github.com/christianhuth" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?&style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://christianknell.github.io/helm-charts/" target="_blank">
+  <a href="https://charts.christianhuth.de" target="_blank">
     <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?&style=flat-square&logo=helm&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/christianknell/" target="_blank">
+  <a href="https://www.linkedin.com/in/christianhuth/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://openprofile.dev/profile/christian.knell" target="_blank">
@@ -136,7 +136,7 @@
   <a href="https://christianknell.medium.com/" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=medium&logoColor=white" />
   </a>
-  <a href="https://twitter.com/christianknell" target="_blank">
+  <a href="https://twitter.com/huthcn" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="https://udemy.com/user/christian-knell" target="_blank">
