@@ -136,9 +136,6 @@
   <a href="https://christian-huth.medium.com/" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=medium&logoColor=white" />
   </a>
-  <a href="https://twitter.com/huthcn" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=flat-square&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://udemy.com/user/christian-knell" target="_blank">
     <img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?&style=flat-square&logo=udemy&logoColor=white" />
   </a>
