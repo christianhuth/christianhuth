@@ -33,14 +33,14 @@
   <a href="https://www.credly.com/badges/640e6244-0eb2-45b4-978f-4227bb023d1d" target="_blank">
     <img alt="Certified Kubernetes Administrator (CKA)" height="150px" width="150px" src="images/cka.png"/>
   </a>
+  <a href="https://www.credly.com/badges/e4f83a39-ce23-4deb-8efc-d94ca069cb49" target="_blank">
+    <img alt="Kubernetes and Cloud Native Security Associate (KCSA)" height="150px" width="150px" src="images/kcsa.png"/>
+  </a>
   <a href="https://www.credly.com/badges/1e2dc1de-e3f8-42c3-8b61-707f95044bad" target="_blank">
     <img alt="Certified Kubernetes Application Developer (CKAD)" height="150px" width="150px" src="images/ckad.png"/>
   </a>
   <a href="https://www.credly.com/badges/e1c83309-53af-4deb-988b-72c6a6d8f7ad" target="_blank">
     <img alt="Kubernetes and Cloud Native Associate (KCNA)" height="150px" width="150px" src="images/kcna.png"/>
-  </a>
-  <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
-    <img alt="Prometheus Certified Associate (PCA)" height="150px" width="150px" src="images/pca.png"/>
   </a>
   <a href="https://www.credly.com/badges/e37741c9-9220-4add-a77d-3e56f9cb833b" target="_blank">
     <img alt="Red Hat® Certified Specialist in OpenShift Automation and Integration" height="150px" width="150px" src="images/redhat_certified_specialist_openshift_automation_and_integration.png"/>
@@ -78,6 +78,9 @@
   <a href="certificates/gitops-at-scale.pdf" target="_blank">
     <img alt="GitOps at Scale" height="150px" width="150px" src="images/gitops_at_scale.png"/>
   </a>
+  <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
+    <img alt="Prometheus Certified Associate (PCA)" height="150px" width="150px" src="images/pca.png"/>
+  </a>
   <a href="https://www.credly.com/badges/623460ae-bc90-43c1-8a93-2de8318dc840" target="_blank">
     <img alt="Fundamentals for Kyverno" height="150px" width="150px" src="images/fundamentals_for_kyverno.png"/>
   </a>
@@ -87,17 +90,20 @@
   <a href="https://www.credly.com/badges/2fac3977-d44b-4b19-a438-93a8d9926c10" target="_blank">
     <img alt="Open Data Foramts YAML (SC101)" height="150px" width="150px" src="images/yaml.png"/>
   </a>
+  <a href="https://www.credly.com/badges/e4f83a39-ce23-4deb-8efc-d94ca069cb49" target="_blank">
+    <img alt="Advanced Cloud Engineer" height="150px" width="150px" src="images/advanced_cloud_engineer.png"/>
+  </a>
   <a href="https://www.credly.com/badges/a9f21792-89dd-4e55-9832-747a36a2c404" target="_blank">
     <img alt="Linux Foundation Certified Cloud Technician (LFCT)" height="150px" width="150px" src="images/lfct.png"/>
-  </a>
-  <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
-    <img alt="LPIC-1 Linux Administrator" height="150px" width="150px" src="images/lpic_1.png"/>
   </a>
   <a href="https://www.credly.com/badges/f92e7f4b-2b48-4325-a386-f1a6120a71ff" target="_blank">
     <img alt="Linux Foundation Certified Systems Administrator (LFCS)" height="150px" width="150px" src="images/lfcs.png"/>
   </a>
   <a href="https://www.credly.com/badges/657004bf-4304-47bb-94ab-2b77d47da0c3" target="_blank">
     <img alt="Linux Foundation Certified IT Associate (LFCA)" height="150px" width="150px" src="images/lfca.png"/>
+  </a>
+  <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
+    <img alt="LPIC-1 Linux Administrator" height="150px" width="150px" src="images/lpic_1.png"/>
   </a>
   <a href="https://lpi.org/v/LPI000442771/tjg4sn9f9a" target="_blank">
     <img alt="Linux Essentials (LE-1)" height="150px" width="150px" src="images/linux_essentials.png"/>
