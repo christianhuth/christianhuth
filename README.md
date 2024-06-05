@@ -72,10 +72,10 @@
   <a href="https://www.credly.com/badges/68c07833-84c5-43d5-afef-6e98938eab39" target="_blank">
     <img alt="HashiCorp Certified: Consul Associate" height="150px" width="150px" src="images/consul_associate.png"/>
   </a>
-  <a href="certificates/gitops-fundamentals.pdf" target="_blank">
+  <a href="certificates/2022_02_01 - GitOps Fundamentals.pdf" target="_blank">
     <img alt="GitOps Fundamentals" height="150px" width="150px" src="images/gitops_fundamentals.png"/>
   </a>
-  <a href="certificates/gitops-at-scale.pdf" target="_blank">
+  <a href="certificates/2022_10_27 - GitOps at Scale.pdf" target="_blank">
     <img alt="GitOps at Scale" height="150px" width="150px" src="images/gitops_at_scale.png"/>
   </a>
   <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
