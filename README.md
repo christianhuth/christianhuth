@@ -111,12 +111,18 @@
 </p>
 
 ## Me in the WWW
+
+[//]: <> (Icons from https://simpleicons.org)
+
 <p>
   <a href="https://artifacthub.io/packages/search?repo=christianhuth" target="_blank">
     <img alt="ArtifactHub" src="https://img.shields.io/badge/ArtifactHub-417598?&style=flat-square&logo=artifacthub&logoColor=white" />
   </a>
   <a href="https://christianhuth.de" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-15171A?&style=flat-square&logo=ghost&logoColor=white" />
+  </a>
+  <a href="https://bsky.app/profile/christianhuth.bsky.social" target="_blank">
+    <img alt="BlueSky" src="https://img.shields.io/badge/BlueSky-0285FF?&style=flat-square&logo=bluesky&logoColor=white" />
   </a>
   <a href="https://www.credly.com/users/christianhuth/" target="_blank">
     <img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00?&style=flat-square&logo=credly&logoColor=white" />
@@ -142,7 +148,7 @@
   <a href="https://cloud-native.social/@christianknell" target="_blank">
     <img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?&style=flat-square&logo=mastodon&logoColor=white" />
   </a>
-  <a href="https://christian-huth.medium.com/" target="_blank">
+  <a href="https://medium.christianhuth.de" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?&style=flat-square&logo=medium&logoColor=white" />
   </a>
   <a href="https://udemy.com/user/christian-knell" target="_blank">
