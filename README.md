@@ -170,9 +170,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/christianhuth/sportms/issues/7) in [christianhuth/sportms](https://github.com/christianhuth/sportms)
-2. ❗ Opened issue [#6](https://github.com/christianhuth/sportms/issues/6) in [christianhuth/sportms](https://github.com/christianhuth/sportms)
-3. ❗ Opened issue [#5](https://github.com/christianhuth/sportms/issues/5) in [christianhuth/sportms](https://github.com/christianhuth/sportms)
-4. ❗ Opened issue [#4](https://github.com/christianhuth/sportms/issues/4) in [christianhuth/sportms](https://github.com/christianhuth/sportms)
-5. ❗ Opened issue [#3](https://github.com/christianhuth/sportms/issues/3) in [christianhuth/sportms](https://github.com/christianhuth/sportms)
+1. 🔒 Closed issue [#7](https://github.com/christianhuth/sportms/issues/7) in [christianhuth/sportms](https://github.com/christianhuth/sportms)
+2. ❗ Opened issue [#7](https://github.com/christianhuth/sportms/issues/7) in [christianhuth/sportms](https://github.com/christianhuth/sportms)
+3. ❗ Opened issue [#6](https://github.com/christianhuth/sportms/issues/6) in [christianhuth/sportms](https://github.com/christianhuth/sportms)
+4. ❗ Opened issue [#5](https://github.com/christianhuth/sportms/issues/5) in [christianhuth/sportms](https://github.com/christianhuth/sportms)
+5. ❗ Opened issue [#4](https://github.com/christianhuth/sportms/issues/4) in [christianhuth/sportms](https://github.com/christianhuth/sportms)
 <!--END_SECTION:activity-->
