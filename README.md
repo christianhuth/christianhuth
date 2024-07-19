@@ -81,6 +81,9 @@
   <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
     <img alt="Prometheus Certified Associate (PCA)" height="150px" width="150px" src="images/pca.png"/>
   </a>
+  <a href="https://www.credly.com/badges/1a61c5ce-a520-40af-b233-0497a4fabfe7/public_url" target="_blank">
+    <img alt="Istio Certified Associate (ICA)" height="150px" width="150px" src="images/istio_certified_associate.png"/>
+  </a>
   <a href="https://www.credly.com/badges/623460ae-bc90-43c1-8a93-2de8318dc840" target="_blank">
     <img alt="Fundamentals for Kyverno" height="150px" width="150px" src="images/fundamentals_for_kyverno.png"/>
   </a>
