@@ -173,9 +173,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1108](https://github.com/christianhuth/helm-charts/issues/1108) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. ❗ Opened issue [#1107](https://github.com/christianhuth/helm-charts/issues/1107) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. ❗ Opened issue [#1106](https://github.com/christianhuth/helm-charts/issues/1106) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ❗ Opened issue [#12](https://github.com/christianhuth/sportms/issues/12) in [christianhuth/sportms](https://github.com/christianhuth/sportms)
-5. ❗ Opened issue [#11](https://github.com/christianhuth/sportms/issues/11) in [christianhuth/sportms](https://github.com/christianhuth/sportms)
+1. 💪 Opened PR [#1110](https://github.com/christianhuth/helm-charts/pull/1110) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. ❗ Opened issue [#1108](https://github.com/christianhuth/helm-charts/issues/1108) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. ❗ Opened issue [#1107](https://github.com/christianhuth/helm-charts/issues/1107) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. ❗ Opened issue [#1106](https://github.com/christianhuth/helm-charts/issues/1106) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. ❗ Opened issue [#12](https://github.com/christianhuth/sportms/issues/12) in [christianhuth/sportms](https://github.com/christianhuth/sportms)
 <!--END_SECTION:activity-->
