@@ -72,6 +72,9 @@
   <a href="https://www.credly.com/badges/68c07833-84c5-43d5-afef-6e98938eab39" target="_blank">
     <img alt="HashiCorp Certified: Consul Associate" height="150px" width="150px" src="images/consul_associate.png"/>
   </a>
+  <a href="https://www.credly.com/badges/8bd7ea69-d6c4-4ad8-a95e-155d5f56dbde" target="_blank">
+    <img alt="Certified GitOps Associate (CGOA)" height="150px" width="150px" src="images/certified_gitops_associate.png"/>
+  </a>
   <a href="https://www.credly.com/badges/b04591fc-d9f5-41d5-8a0c-efd2cc21832f" target="_blank">
     <img alt="GitOps Fundamentals" height="150px" width="150px" src="images/gitops_fundamentals.png"/>
   </a>
