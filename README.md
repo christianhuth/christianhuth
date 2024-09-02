@@ -176,9 +176,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#8](https://github.com/christianhuth/helm-charts/issues/8) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 🔓 Reopened issue [#10](https://github.com/christianhuth/helm-charts/issues/10) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🔓 Reopened issue [#11](https://github.com/christianhuth/helm-charts/issues/11) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 🔓 Reopened issue [#12](https://github.com/christianhuth/helm-charts/issues/12) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 🔓 Reopened issue [#14](https://github.com/christianhuth/helm-charts/issues/14) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. ❗ Opened issue [#1157](https://github.com/christianhuth/helm-charts/issues/1157) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 🔓 Reopened issue [#8](https://github.com/christianhuth/helm-charts/issues/8) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 🔓 Reopened issue [#10](https://github.com/christianhuth/helm-charts/issues/10) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 🔓 Reopened issue [#11](https://github.com/christianhuth/helm-charts/issues/11) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 🔓 Reopened issue [#12](https://github.com/christianhuth/helm-charts/issues/12) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
