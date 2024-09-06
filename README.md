@@ -105,6 +105,15 @@
   <a href="https://www.credly.com/badges/e4f83a39-ce23-4deb-8efc-d94ca069cb49" target="_blank">
     <img alt="Advanced Cloud Engineer" height="150px" width="150px" src="images/advanced_cloud_engineer.png"/>
   </a>
+  <a href="https://www.credly.com/badges/a90ac7b5-ab15-4711-8d38-8afdb0a72c9c" target="_blank">
+    <img alt="Cloud Engineer" height="150px" width="150px" src="images/cloud_engineer.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/15ca4959-028f-452f-8091-881dd961d0e3" target="_blank">
+    <img alt="Cloud Native Developer" height="150px" width="150px" src="images/cloud_native_developer.png"/>
+  </a>
+  <a href="https://www.credly.com/badges/cb5d414c-d5fc-414e-bc3f-00c8d4483c4b" target="_blank">
+    <img alt="DevOps IT Professional" height="150px" width="150px" src="images/devops_it.png"/>
+  </a>
   <a href="https://www.credly.com/badges/a9f21792-89dd-4e55-9832-747a36a2c404" target="_blank">
     <img alt="Linux Foundation Certified Cloud Technician (LFCT)" height="150px" width="150px" src="images/lfct.png"/>
   </a>
