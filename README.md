@@ -191,9 +191,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/christianhuth/minikube/pull/2) in [christianhuth/minikube](https://github.com/christianhuth/minikube)
-2. ❗ Opened issue [#1](https://github.com/christianhuth/minikube/issues/1) in [christianhuth/minikube](https://github.com/christianhuth/minikube)
-3. ❗ Opened issue [#5](https://github.com/cloud37/helm-charts/issues/5) in [cloud37/helm-charts](https://github.com/cloud37/helm-charts)
-4. 🎉 Merged PR [#1164](https://github.com/christianhuth/helm-charts/pull/1164) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 💪 Opened PR [#1164](https://github.com/christianhuth/helm-charts/pull/1164) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 💪 Opened PR [#1166](https://github.com/christianhuth/helm-charts/pull/1166) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 💪 Opened PR [#2](https://github.com/christianhuth/minikube/pull/2) in [christianhuth/minikube](https://github.com/christianhuth/minikube)
+3. ❗ Opened issue [#1](https://github.com/christianhuth/minikube/issues/1) in [christianhuth/minikube](https://github.com/christianhuth/minikube)
+4. ❗ Opened issue [#5](https://github.com/cloud37/helm-charts/issues/5) in [cloud37/helm-charts](https://github.com/cloud37/helm-charts)
+5. 🎉 Merged PR [#1164](https://github.com/christianhuth/helm-charts/pull/1164) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
