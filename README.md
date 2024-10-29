@@ -96,8 +96,11 @@
   <a href="https://www.credly.com/badges/623460ae-bc90-43c1-8a93-2de8318dc840" target="_blank">
     <img alt="Fundamentals for Kyverno" height="150px" width="150px" src="images/fundamentals_for_kyverno.png"/>
   </a>
+  <a href="https://www.credly.com/badges/ac269acb-b6f6-46ea-b25f-fd5f4655e062" target="_blank">
+    <img alt="Source Control Management with Git (SC102)" height="150px" width="150px" src="images/source_control_management_with_git.png"/>
+  </a>
   <a href="https://www.credly.com/badges/a46ba6ca-e821-41e6-99bd-59b4334d5c7d" target="_blank">
-    <img alt="Developing Helm Charts (SC104=" height="150px" width="150px" src="images/helm.png"/>
+    <img alt="Developing Helm Charts (SC104)" height="150px" width="150px" src="images/helm.png"/>
   </a>
   <a href="https://www.credly.com/badges/2fac3977-d44b-4b19-a438-93a8d9926c10" target="_blank">
     <img alt="Open Data Foramts YAML (SC101)" height="150px" width="150px" src="images/yaml.png"/>
