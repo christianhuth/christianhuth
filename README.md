@@ -43,7 +43,7 @@
     <img alt="Kubernetes and Cloud Native Associate (KCNA)" height="150px" width="150px" src="images/kcna.png"/>
   </a>
   <a href="https://www.credly.com/badges/cafec68f-0c08-4e37-b199-4b7ff652c470" target="_blank">
-    <img alt="Red Hat® Certified Specialist in OpenShift Virtualization" height="150px" width="150px" src="images/redhat_certified_specialist_openshift_virtualization.png"/>
+    <img alt="Red Hat® Certified Specialist in OpenShift Virtualization" height="150px" width="150px" src="images/redhat_certified_specialist_in_openshift_virtualization.png"/>
   </a>
   <a href="https://www.credly.com/badges/e37741c9-9220-4add-a77d-3e56f9cb833b" target="_blank">
     <img alt="Red Hat® Certified Specialist in OpenShift Automation and Integration" height="150px" width="150px" src="images/redhat_certified_specialist_openshift_automation_and_integration.png"/>
