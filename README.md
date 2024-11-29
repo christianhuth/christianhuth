@@ -191,10 +191,10 @@
 
 ### 📊 My Github Stats
 
-|   ![Contribution graph](https://activity-graph.herokuapp.com/graph?username=christianknell&theme=rogue) |
+|   ![Contribution graph](https://activity-graph.herokuapp.com/graph?username=christianhuth&theme=rogue) |
 | :---: |
 
-| ![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianknell&show_icons=true&theme=city_lights) | ![Christian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christianknell&theme=city-lights) |
+| ![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianhuth&show_icons=true&theme=city_lights) | ![Christian's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christianhuth&theme=city-lights) |
 | :---: | :---: |
 
 #### Recent Activities
