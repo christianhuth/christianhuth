@@ -81,6 +81,9 @@
   <a href="https://www.credly.com/badges/8bd7ea69-d6c4-4ad8-a95e-155d5f56dbde" target="_blank">
     <img alt="Certified GitOps Associate (CGOA)" height="150px" width="150px" src="images/certified_gitops_associate.png"/>
   </a>
+  <a href="https://www.credly.com/badges/7074bc73-0e0a-449a-8933-330222114080" target="_blank">
+    <img alt="GitOps Enterprise" height="150px" width="150px" src="images/gitops_enterprise.png"/>
+  </a>
   <a href="https://www.credly.com/badges/b4519be4-cbc6-4819-85de-513914ad6c77" target="_blank">
     <img alt="GitOps at Scale" height="150px" width="150px" src="images/gitops_at_scale.png"/>
   </a>
