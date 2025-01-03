@@ -93,6 +93,9 @@
   <a href="https://www.credly.com/badges/b04591fc-d9f5-41d5-8a0c-efd2cc21832f" target="_blank">
     <img alt="GitOps Fundamentals" height="150px" width="150px" src="images/gitops_fundamentals.png"/>
   </a>
+  <a href="https://www.credly.com/badges/d929d686-bae4-4be5-bf6a-e24351d8f9cd" target="_blank">
+    <img alt="OpenTelemetry Certified Associate (OTCA)" height="150px" width="150px" src="images/opentelemetry_certified_associate.png"/>
+  </a>
   <a href="https://www.credly.com/badges/faf0a3df-f8d9-40a8-b822-001789d36188" target="_blank">
     <img alt="Prometheus Certified Associate (PCA)" height="150px" width="150px" src="images/pca.png"/>
   </a>
