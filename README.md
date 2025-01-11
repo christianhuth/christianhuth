@@ -209,9 +209,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#104](https://github.com/dadav/helm-schema/pull/104) in [dadav/helm-schema](https://github.com/dadav/helm-schema)
-2. ❗ Opened issue [#3200](https://github.com/akuity/kargo/issues/3200) in [akuity/kargo](https://github.com/akuity/kargo)
-3. 💪 Opened PR [#499](https://github.com/chgl/kube-powertools/pull/499) in [chgl/kube-powertools](https://github.com/chgl/kube-powertools)
-4. ❗ Opened issue [#498](https://github.com/chgl/kube-powertools/issues/498) in [chgl/kube-powertools](https://github.com/chgl/kube-powertools)
-5. ❗ Opened issue [#1194](https://github.com/christianhuth/helm-charts/issues/1194) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 💪 Opened PR [#1196](https://github.com/christianhuth/helm-charts/pull/1196) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 🔒 Closed issue [#1194](https://github.com/christianhuth/helm-charts/issues/1194) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 🎉 Merged PR [#1195](https://github.com/christianhuth/helm-charts/pull/1195) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 💪 Opened PR [#1195](https://github.com/christianhuth/helm-charts/pull/1195) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 🔒 Closed issue [#1159](https://github.com/christianhuth/helm-charts/issues/1159) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
