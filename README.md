@@ -105,6 +105,9 @@
   <a href="https://www.credly.com/badges/af8519c9-e3f7-4362-8189-26dd9dca74c7" target="_blank">
     <img alt="Cilium Certified Associate (CCA)" height="150px" width="150px" src="images/cilium_certified_associate.png"/>
   </a>
+  <a href="https://www.credly.com/badges/314e2ce5-3bf2-4d82-aaa9-92e9c9bf4f44" target="_blank">
+    <img alt="Kyverno Certified Associate (KCA)" height="150px" width="150px" src="images/kyverno_certified_associate.png"/>
+  </a>
   <a href="https://www.credly.com/badges/623460ae-bc90-43c1-8a93-2de8318dc840" target="_blank">
     <img alt="Fundamentals for Kyverno" height="150px" width="150px" src="images/fundamentals_for_kyverno.png"/>
   </a>
