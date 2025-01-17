@@ -212,9 +212,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3200](https://github.com/akuity/kargo/issues/3200) in [akuity/kargo](https://github.com/akuity/kargo)
-2. 💪 Opened PR [#499](https://github.com/chgl/kube-powertools/pull/499) in [chgl/kube-powertools](https://github.com/chgl/kube-powertools)
-3. ❗ Opened issue [#498](https://github.com/chgl/kube-powertools/issues/498) in [chgl/kube-powertools](https://github.com/chgl/kube-powertools)
-4. ❗ Opened issue [#1194](https://github.com/christianhuth/helm-charts/issues/1194) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. ❗ Opened issue [#1193](https://github.com/christianhuth/helm-charts/issues/1193) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🎉 Merged PR [#1239](https://github.com/christianhuth/helm-charts/pull/1239) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 💪 Opened PR [#1239](https://github.com/christianhuth/helm-charts/pull/1239) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 🗣 Commented on [#2926](https://github.com/umami-software/umami/issues/2926#issuecomment-2589557422) in [umami-software/umami](https://github.com/umami-software/umami)
+4. 🔒 Closed issue [#1233](https://github.com/christianhuth/helm-charts/issues/1233) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 🎉 Merged PR [#1236](https://github.com/christianhuth/helm-charts/pull/1236) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
