@@ -212,9 +212,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/christianhuth/node-hostname/pull/4) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
-2. 💪 Opened PR [#4](https://github.com/christianhuth/node-hostname/pull/4) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
-3. 🎉 Merged PR [#3](https://github.com/christianhuth/node-hostname/pull/3) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
-4. 💪 Opened PR [#3](https://github.com/christianhuth/node-hostname/pull/3) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
-5. 🎉 Merged PR [#2](https://github.com/christianhuth/node-hostname/pull/2) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
+1. 🎉 Merged PR [#6](https://github.com/christianhuth/node-hostname/pull/6) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
+2. 💪 Opened PR [#6](https://github.com/christianhuth/node-hostname/pull/6) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
+3. 🎉 Merged PR [#5](https://github.com/christianhuth/node-hostname/pull/5) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
+4. 💪 Opened PR [#5](https://github.com/christianhuth/node-hostname/pull/5) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
+5. 🎉 Merged PR [#4](https://github.com/christianhuth/node-hostname/pull/4) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
 <!--END_SECTION:activity-->
