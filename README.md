@@ -212,9 +212,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1370](https://github.com/adfinis/helm-charts/pull/1370#issuecomment-2606761312) in [adfinis/helm-charts](https://github.com/adfinis/helm-charts)
-2. 🗣 Commented on [#1370](https://github.com/adfinis/helm-charts/pull/1370#issuecomment-2606757754) in [adfinis/helm-charts](https://github.com/adfinis/helm-charts)
-3. ❗ Opened issue [#1248](https://github.com/christianhuth/helm-charts/issues/1248) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 🎉 Merged PR [#1246](https://github.com/christianhuth/helm-charts/pull/1246) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 🎉 Merged PR [#1247](https://github.com/christianhuth/helm-charts/pull/1247) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🗣 Commented on [#1370](https://github.com/adfinis/helm-charts/pull/1370#issuecomment-2607089628) in [adfinis/helm-charts](https://github.com/adfinis/helm-charts)
+2. 🗣 Commented on [#1370](https://github.com/adfinis/helm-charts/pull/1370#issuecomment-2606761312) in [adfinis/helm-charts](https://github.com/adfinis/helm-charts)
+3. 🗣 Commented on [#1370](https://github.com/adfinis/helm-charts/pull/1370#issuecomment-2606757754) in [adfinis/helm-charts](https://github.com/adfinis/helm-charts)
+4. ❗ Opened issue [#1248](https://github.com/christianhuth/helm-charts/issues/1248) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 🎉 Merged PR [#1246](https://github.com/christianhuth/helm-charts/pull/1246) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
