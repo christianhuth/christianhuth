@@ -212,9 +212,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1260](https://github.com/christianhuth/helm-charts/pull/1260) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 🎉 Merged PR [#8](https://github.com/christianhuth/node-hostname/pull/8) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
-3. 💪 Opened PR [#8](https://github.com/christianhuth/node-hostname/pull/8) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
-4. 🎉 Merged PR [#7](https://github.com/christianhuth/node-hostname/pull/7) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
-5. 💪 Opened PR [#7](https://github.com/christianhuth/node-hostname/pull/7) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
+1. 🎉 Merged PR [#1259](https://github.com/christianhuth/helm-charts/pull/1259) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 🎉 Merged PR [#1260](https://github.com/christianhuth/helm-charts/pull/1260) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 🎉 Merged PR [#8](https://github.com/christianhuth/node-hostname/pull/8) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
+4. 💪 Opened PR [#8](https://github.com/christianhuth/node-hostname/pull/8) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
+5. 🎉 Merged PR [#7](https://github.com/christianhuth/node-hostname/pull/7) in [christianhuth/node-hostname](https://github.com/christianhuth/node-hostname)
 <!--END_SECTION:activity-->
