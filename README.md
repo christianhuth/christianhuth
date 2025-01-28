@@ -78,6 +78,9 @@
   <a href="https://www.credly.com/badges/68c07833-84c5-43d5-afef-6e98938eab39" target="_blank">
     <img alt="HashiCorp Certified: Consul Associate" height="150px" width="150px" src="images/consul_associate.png"/>
   </a>
+  <a href="https://www.credly.com/badges/0a9f6a2c-47d5-49d4-9bee-4b3668ae4c79" target="_blank">
+    <img alt="Certified Backstage Associate (CBA)" height="150px" width="150px" src="images/certified_backstage_associate.png"/>
+  </a>
   <a href="https://www.credly.com/badges/b0094b8c-3531-4ff7-a1f0-f790f0fe1257" target="_blank">
     <img alt="Certified Argo Project Associate (CAPA)" height="150px" width="150px" src="images/certified_argo_project_associate.png"/>
   </a>
