@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1298](https://github.com/christianhuth/helm-charts/pull/1298) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. ❗ Opened issue [#1300](https://github.com/christianhuth/helm-charts/issues/1300) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🗣 Commented on [#804](https://github.com/thedevs-network/kutt/pull/804#issuecomment-2634255647) in [thedevs-network/kutt](https://github.com/thedevs-network/kutt)
-4. 💪 Opened PR [#817](https://github.com/thedevs-network/kutt/pull/817) in [thedevs-network/kutt](https://github.com/thedevs-network/kutt)
-5. 🎉 Merged PR [#1285](https://github.com/christianhuth/helm-charts/pull/1285) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🎉 Merged PR [#1299](https://github.com/christianhuth/helm-charts/pull/1299) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. ❌ Closed PR [#1298](https://github.com/christianhuth/helm-charts/pull/1298) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. ❗ Opened issue [#1300](https://github.com/christianhuth/helm-charts/issues/1300) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 🗣 Commented on [#804](https://github.com/thedevs-network/kutt/pull/804#issuecomment-2634255647) in [thedevs-network/kutt](https://github.com/thedevs-network/kutt)
+5. 💪 Opened PR [#817](https://github.com/thedevs-network/kutt/pull/817) in [thedevs-network/kutt](https://github.com/thedevs-network/kutt)
 <!--END_SECTION:activity-->
