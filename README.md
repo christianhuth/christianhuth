@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1404](https://github.com/mailcow/mailcow-dockerized/issues/1404#issuecomment-2650684866) in [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
-2. 🗣 Commented on [#1301](https://github.com/christianhuth/helm-charts/issues/1301#issuecomment-2649009248) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🎉 Merged PR [#1299](https://github.com/christianhuth/helm-charts/pull/1299) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ❌ Closed PR [#1298](https://github.com/christianhuth/helm-charts/pull/1298) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. ❗ Opened issue [#1300](https://github.com/christianhuth/helm-charts/issues/1300) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🎉 Merged PR [#1312](https://github.com/christianhuth/helm-charts/pull/1312) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. ❌ Closed PR [#1313](https://github.com/christianhuth/helm-charts/pull/1313) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. ❌ Closed PR [#1304](https://github.com/christianhuth/helm-charts/pull/1304) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. ❌ Closed PR [#1303](https://github.com/christianhuth/helm-charts/pull/1303) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. ❌ Closed PR [#1309](https://github.com/christianhuth/helm-charts/pull/1309) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
