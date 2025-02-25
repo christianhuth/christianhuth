@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1350](https://github.com/christianhuth/helm-charts/pull/1350) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 💪 Opened PR [#157](https://github.com/tykling/dns_exporter/pull/157) in [tykling/dns_exporter](https://github.com/tykling/dns_exporter)
-3. 🎉 Merged PR [#1349](https://github.com/christianhuth/helm-charts/pull/1349) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ❗ Opened issue [#156](https://github.com/tykling/dns_exporter/issues/156) in [tykling/dns_exporter](https://github.com/tykling/dns_exporter)
-5. 🔒 Closed issue [#1339](https://github.com/christianhuth/helm-charts/issues/1339) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. ❌ Closed PR [#1351](https://github.com/christianhuth/helm-charts/pull/1351) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 🎉 Merged PR [#1350](https://github.com/christianhuth/helm-charts/pull/1350) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 💪 Opened PR [#157](https://github.com/tykling/dns_exporter/pull/157) in [tykling/dns_exporter](https://github.com/tykling/dns_exporter)
+4. 🎉 Merged PR [#1349](https://github.com/christianhuth/helm-charts/pull/1349) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. ❗ Opened issue [#156](https://github.com/tykling/dns_exporter/issues/156) in [tykling/dns_exporter](https://github.com/tykling/dns_exporter)
 <!--END_SECTION:activity-->
