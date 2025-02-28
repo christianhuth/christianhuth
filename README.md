@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1363](https://github.com/christianhuth/helm-charts/pull/1363) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 🎉 Merged PR [#1364](https://github.com/christianhuth/helm-charts/pull/1364) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🎉 Merged PR [#1362](https://github.com/christianhuth/helm-charts/pull/1362) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 🔒 Closed issue [#203](https://github.com/christianhuth/helm-charts/issues/203) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 🗣 Commented on [#1534](https://github.com/mozilla-services/syncstorage-rs/issues/1534#issuecomment-2682358042) in [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs)
+1. 🎉 Merged PR [#1366](https://github.com/christianhuth/helm-charts/pull/1366) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. ❌ Closed PR [#1369](https://github.com/christianhuth/helm-charts/pull/1369) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 🎉 Merged PR [#1363](https://github.com/christianhuth/helm-charts/pull/1363) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 🎉 Merged PR [#1364](https://github.com/christianhuth/helm-charts/pull/1364) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 🎉 Merged PR [#1362](https://github.com/christianhuth/helm-charts/pull/1362) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
