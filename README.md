@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/tykling/dns_exporter/issues/156#issuecomment-2693511236) in [tykling/dns_exporter](https://github.com/tykling/dns_exporter)
-2. 🎉 Merged PR [#1370](https://github.com/christianhuth/helm-charts/pull/1370) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🎉 Merged PR [#1365](https://github.com/christianhuth/helm-charts/pull/1365) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 🎉 Merged PR [#1368](https://github.com/christianhuth/helm-charts/pull/1368) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 🎉 Merged PR [#1367](https://github.com/christianhuth/helm-charts/pull/1367) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. ❌ Closed PR [#1380](https://github.com/christianhuth/helm-charts/pull/1380) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. ❌ Closed PR [#1378](https://github.com/christianhuth/helm-charts/pull/1378) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. ❌ Closed PR [#1377](https://github.com/christianhuth/helm-charts/pull/1377) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 🎉 Merged PR [#1372](https://github.com/christianhuth/helm-charts/pull/1372) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. ❌ Closed PR [#1375](https://github.com/christianhuth/helm-charts/pull/1375) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
