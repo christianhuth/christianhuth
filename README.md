@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1778](https://github.com/christianhuth/helm-charts/pull/1778) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 💪 Opened PR [#1777](https://github.com/christianhuth/helm-charts/pull/1777) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 💪 Opened PR [#1776](https://github.com/christianhuth/helm-charts/pull/1776) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 💪 Opened PR [#1775](https://github.com/christianhuth/helm-charts/pull/1775) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 💪 Opened PR [#827](https://github.com/HewlettPackard/squest/pull/827) in [HewlettPackard/squest](https://github.com/HewlettPackard/squest)
+1. 🎉 Merged PR [#1775](https://github.com/christianhuth/helm-charts/pull/1775) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 💪 Opened PR [#1778](https://github.com/christianhuth/helm-charts/pull/1778) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 💪 Opened PR [#1777](https://github.com/christianhuth/helm-charts/pull/1777) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 💪 Opened PR [#1776](https://github.com/christianhuth/helm-charts/pull/1776) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 💪 Opened PR [#1775](https://github.com/christianhuth/helm-charts/pull/1775) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
