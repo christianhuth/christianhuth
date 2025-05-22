@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1860](https://github.com/christianhuth/helm-charts/pull/1860) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 💪 Opened PR [#1860](https://github.com/christianhuth/helm-charts/pull/1860) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🎉 Merged PR [#1859](https://github.com/christianhuth/helm-charts/pull/1859) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 💪 Opened PR [#1859](https://github.com/christianhuth/helm-charts/pull/1859) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 🗣 Commented on [#371](https://github.com/robusta-dev/krr/issues/371#issuecomment-2892983429) in [robusta-dev/krr](https://github.com/robusta-dev/krr)
+1. 💪 Opened PR [#1862](https://github.com/christianhuth/helm-charts/pull/1862) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 🎉 Merged PR [#1860](https://github.com/christianhuth/helm-charts/pull/1860) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 💪 Opened PR [#1860](https://github.com/christianhuth/helm-charts/pull/1860) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 🎉 Merged PR [#1859](https://github.com/christianhuth/helm-charts/pull/1859) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 💪 Opened PR [#1859](https://github.com/christianhuth/helm-charts/pull/1859) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
