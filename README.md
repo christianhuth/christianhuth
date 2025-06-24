@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1974](https://github.com/christianhuth/helm-charts/pull/1974) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 💪 Opened PR [#1974](https://github.com/christianhuth/helm-charts/pull/1974) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 💪 Opened PR [#3](https://github.com/christianhuth/kube-powertools/pull/3) in [christianhuth/kube-powertools](https://github.com/christianhuth/kube-powertools)
-4. 🗣 Commented on [#554](https://github.com/kube-green/kube-green/pull/554#issuecomment-2990163564) in [kube-green/kube-green](https://github.com/kube-green/kube-green)
-5. 🎉 Merged PR [#1973](https://github.com/christianhuth/helm-charts/pull/1973) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🗣 Commented on [#554](https://github.com/kube-green/kube-green/pull/554#issuecomment-2999294439) in [kube-green/kube-green](https://github.com/kube-green/kube-green)
+2. 🎉 Merged PR [#1974](https://github.com/christianhuth/helm-charts/pull/1974) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 💪 Opened PR [#1974](https://github.com/christianhuth/helm-charts/pull/1974) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 💪 Opened PR [#3](https://github.com/christianhuth/kube-powertools/pull/3) in [christianhuth/kube-powertools](https://github.com/christianhuth/kube-powertools)
+5. 🗣 Commented on [#554](https://github.com/kube-green/kube-green/pull/554#issuecomment-2990163564) in [kube-green/kube-green](https://github.com/kube-green/kube-green)
 <!--END_SECTION:activity-->
