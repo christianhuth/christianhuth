@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2013](https://github.com/christianhuth/helm-charts/pull/2013) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. ❌ Closed PR [#2012](https://github.com/christianhuth/helm-charts/pull/2012) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. ❌ Closed PR [#2011](https://github.com/christianhuth/helm-charts/pull/2011) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ❌ Closed PR [#2010](https://github.com/christianhuth/helm-charts/pull/2010) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. ❌ Closed PR [#2009](https://github.com/christianhuth/helm-charts/pull/2009) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. ❌ Reopened PR [#2013](https://github.com/christianhuth/helm-charts/pull/2013) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. ❌ Reopened PR [#2012](https://github.com/christianhuth/helm-charts/pull/2012) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. ❌ Reopened PR [#2011](https://github.com/christianhuth/helm-charts/pull/2011) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. ❌ Reopened PR [#2010](https://github.com/christianhuth/helm-charts/pull/2010) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. ❌ Reopened PR [#2009](https://github.com/christianhuth/helm-charts/pull/2009) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
