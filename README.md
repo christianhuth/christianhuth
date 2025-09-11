@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2080](https://github.com/christianhuth/helm-charts/issues/2080#issuecomment-3250378111) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. ❌ Closed PR [#2201](https://github.com/christianhuth/helm-charts/pull/2201) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🎉 Merged PR [#2204](https://github.com/christianhuth/helm-charts/pull/2204) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ❌ Reopened PR [#2201](https://github.com/christianhuth/helm-charts/pull/2201) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 💪 Opened PR [#2204](https://github.com/christianhuth/helm-charts/pull/2204) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🗣 Commented on [#834](https://github.com/kubernetes-sigs/cluster-api-operator/issues/834#issuecomment-3274627690) in [kubernetes-sigs/cluster-api-operator](https://github.com/kubernetes-sigs/cluster-api-operator)
+2. 🗣 Commented on [#2080](https://github.com/christianhuth/helm-charts/issues/2080#issuecomment-3250378111) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. ❌ Closed PR [#2201](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. ❌ Reopened PR [#2201](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. ❌ Labeled PR [#2204](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
