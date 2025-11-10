@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#239](https://github.com/crossplane-contrib/provider-gitlab/issues/239) in [crossplane-contrib/provider-gitlab](https://github.com/crossplane-contrib/provider-gitlab)
-2. ❗ Opened issue [#239](https://github.com/crossplane-contrib/provider-gitlab/issues/239) in [crossplane-contrib/provider-gitlab](https://github.com/crossplane-contrib/provider-gitlab)
-3. 🗣 Commented on [#2260](https://github.com/christianhuth/helm-charts/pull/2260#issuecomment-3452905980) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ❌ Labeled PR [#2259](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. ❌ Labeled PR [#2261](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 💪 Opened PR [#2261](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3.  Labeled issue [#239](https://github.com/crossplane-contrib/provider-gitlab/issues/239) in [crossplane-contrib/provider-gitlab](https://github.com/crossplane-contrib/provider-gitlab)
+4. ❗ Opened issue [#239](https://github.com/crossplane-contrib/provider-gitlab/issues/239) in [crossplane-contrib/provider-gitlab](https://github.com/crossplane-contrib/provider-gitlab)
 5. 💪 Opened PR [#2259](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
