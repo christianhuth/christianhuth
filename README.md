@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#2262](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 🗣 Commented on [#239](https://github.com/crossplane-contrib/provider-gitlab/issues/239#issuecomment-3512145734) in [crossplane-contrib/provider-gitlab](https://github.com/crossplane-contrib/provider-gitlab)
-3. ❌ Labeled PR [#2262](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 💪 Opened PR [#2262](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. ❌ Labeled PR [#2261](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. ❌ Labeled PR [#2264](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 💪 Opened PR [#2264](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. ❌ Assigned PR [#2262](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 🗣 Commented on [#239](https://github.com/crossplane-contrib/provider-gitlab/issues/239#issuecomment-3512145734) in [crossplane-contrib/provider-gitlab](https://github.com/crossplane-contrib/provider-gitlab)
+5. ❌ Labeled PR [#2262](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
