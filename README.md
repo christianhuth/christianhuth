@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#2268](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. ❌ Assigned PR [#2268](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. ❗ Opened issue [#88](https://github.com/clusterpedia-io/clusterpedia-helm/issues/88) in [clusterpedia-io/clusterpedia-helm](https://github.com/clusterpedia-io/clusterpedia-helm)
+2. ❗ Opened issue [#87](https://github.com/clusterpedia-io/clusterpedia-helm/issues/87) in [clusterpedia-io/clusterpedia-helm](https://github.com/clusterpedia-io/clusterpedia-helm)
 3. ❌ Labeled PR [#2268](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 💪 Opened PR [#2268](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. ❌ Labeled PR [#2267](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. ❌ Assigned PR [#2268](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. ❌ Labeled PR [#2268](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
