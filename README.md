@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#88](https://github.com/clusterpedia-io/clusterpedia-helm/issues/88) in [clusterpedia-io/clusterpedia-helm](https://github.com/clusterpedia-io/clusterpedia-helm)
-2. ❗ Opened issue [#87](https://github.com/clusterpedia-io/clusterpedia-helm/issues/87) in [clusterpedia-io/clusterpedia-helm](https://github.com/clusterpedia-io/clusterpedia-helm)
-3. ❌ Labeled PR [#2268](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ❌ Assigned PR [#2268](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. ❌ Labeled PR [#2268](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1.  Labeled issue [#25342](https://github.com/argoproj/argo-cd/issues/25342) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+2.  Labeled issue [#25342](https://github.com/argoproj/argo-cd/issues/25342) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+3. ❗ Opened issue [#25342](https://github.com/argoproj/argo-cd/issues/25342) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+4. ❗ Opened issue [#88](https://github.com/clusterpedia-io/clusterpedia-helm/issues/88) in [clusterpedia-io/clusterpedia-helm](https://github.com/clusterpedia-io/clusterpedia-helm)
+5. ❗ Opened issue [#87](https://github.com/clusterpedia-io/clusterpedia-helm/issues/87) in [clusterpedia-io/clusterpedia-helm](https://github.com/clusterpedia-io/clusterpedia-helm)
 <!--END_SECTION:activity-->
