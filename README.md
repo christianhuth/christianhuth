@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#2279](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. ❌ Labeled PR [#2279](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 💪 Opened PR [#2279](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 🗣 Commented on [#2237](https://github.com/christianhuth/helm-charts/pull/2237#issuecomment-3574717926) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 🗣 Commented on [#2236](https://github.com/christianhuth/helm-charts/pull/2236#issuecomment-3574717856) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🗣 Commented on [#25342](https://github.com/argoproj/argo-cd/issues/25342#issuecomment-3595723750) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+2. ❌ Assigned PR [#2279](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. ❌ Labeled PR [#2279](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 💪 Opened PR [#2279](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 🗣 Commented on [#2237](https://github.com/christianhuth/helm-charts/pull/2237#issuecomment-3574717926) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
