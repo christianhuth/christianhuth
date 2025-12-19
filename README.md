@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2280](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. ❌ Merged PR [#2283](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 💪 Opened PR [#2292](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ❌ Closed PR [#2231](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. ❌ Closed PR [#2232](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. ❌ Merged PR [#2293](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. ❌ Unlabeled PR [#2244](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. ❌ Unlabeled PR [#2243](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. ❌ Unlabeled PR [#2241](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. ❌ Unlabeled PR [#2240](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
