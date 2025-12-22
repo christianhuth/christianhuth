@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#60](https://github.com/firestoned/bindy/issues/60) in [firestoned/bindy](https://github.com/firestoned/bindy)
-2. ❌ Closed PR [#2301](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. ❌ Merged PR [#2300](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ❌ Labeled PR [#2301](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 💪 Opened PR [#2301](undefined) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1.  Unlabeled issue [#961](https://github.com/christianhuth/helm-charts/issues/961) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2.  Assigned issue [#2303](https://github.com/christianhuth/helm-charts/issues/2303) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3.  Labeled issue [#2303](https://github.com/christianhuth/helm-charts/issues/2303) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. ❗ Opened issue [#2303](https://github.com/christianhuth/helm-charts/issues/2303) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 🔒 Closed issue [#2080](https://github.com/christianhuth/helm-charts/issues/2080) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
