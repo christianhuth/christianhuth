@@ -215,9 +215,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#164](https://github.com/christianhuth/helm-charts/issues/164) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2.  Labeled issue [#166](https://github.com/christianhuth/helm-charts/issues/166) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3.  Labeled issue [#233](https://github.com/christianhuth/helm-charts/issues/233) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4.  Labeled issue [#423](https://github.com/christianhuth/helm-charts/issues/423) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5.  Labeled issue [#965](https://github.com/christianhuth/helm-charts/issues/965) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1.  Labeled issue [#1001](https://github.com/christianhuth/helm-charts/issues/1001) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2.  Unlabeled issue [#1001](https://github.com/christianhuth/helm-charts/issues/1001) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3.  Labeled issue [#164](https://github.com/christianhuth/helm-charts/issues/164) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4.  Labeled issue [#166](https://github.com/christianhuth/helm-charts/issues/166) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5.  Labeled issue [#233](https://github.com/christianhuth/helm-charts/issues/233) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
