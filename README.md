@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2322](https://github.com/christianhuth/helm-charts/issues/2322) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. ❗ Opened issue [#2322](https://github.com/christianhuth/helm-charts/issues/2322) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. ℹ️ Assigned issue [#2322](https://github.com/christianhuth/helm-charts/issues/2322) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 🗣 Commented on [#193](https://github.com/dag-andersen/argocd-diff-preview/issues/193#issuecomment-3698926495) in [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview)
-5. 🎉 Merged PR [#2321](https://github.com/christianhuth/helm-charts/pull/2321) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🗣 Commented on [#2323](https://github.com/christianhuth/helm-charts/pull/2323#issuecomment-3707416803) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. ℹ️ Labeled issue [#2322](https://github.com/christianhuth/helm-charts/issues/2322) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. ❗ Opened issue [#2322](https://github.com/christianhuth/helm-charts/issues/2322) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. ℹ️ Assigned issue [#2322](https://github.com/christianhuth/helm-charts/issues/2322) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 🗣 Commented on [#193](https://github.com/dag-andersen/argocd-diff-preview/issues/193#issuecomment-3698926495) in [dag-andersen/argocd-diff-preview](https://github.com/dag-andersen/argocd-diff-preview)
 <!--END_SECTION:activity-->
