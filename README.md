@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2403](https://github.com/christianhuth/helm-charts/issues/2403#issuecomment-3781502206) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 🗣 Commented on [#195](https://github.com/sapcc/ntp_exporter/pull/195#issuecomment-3781497310) in [sapcc/ntp_exporter](https://github.com/sapcc/ntp_exporter)
-3. 🎉 Merged PR [#2405](https://github.com/christianhuth/helm-charts/pull/2405) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ℹ️ Labeled PR [#2405](https://github.com/christianhuth/helm-charts/pull/2405) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 💪 Opened PR [#2405](https://github.com/christianhuth/helm-charts/pull/2405) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🎉 Merged PR [#2406](https://github.com/christianhuth/helm-charts/pull/2406) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. ℹ️ Labeled PR [#2406](https://github.com/christianhuth/helm-charts/pull/2406) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 💪 Opened PR [#2406](https://github.com/christianhuth/helm-charts/pull/2406) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 🗣 Commented on [#2403](https://github.com/christianhuth/helm-charts/issues/2403#issuecomment-3781502206) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 🗣 Commented on [#195](https://github.com/sapcc/ntp_exporter/pull/195#issuecomment-3781497310) in [sapcc/ntp_exporter](https://github.com/sapcc/ntp_exporter)
 <!--END_SECTION:activity-->
