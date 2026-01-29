@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#100](https://github.com/firestoned/bindy/issues/100) in [firestoned/bindy](https://github.com/firestoned/bindy)
-2. 🗣 Commented on [#40](https://github.com/firestoned/bindy/issues/40#issuecomment-3804060313) in [firestoned/bindy](https://github.com/firestoned/bindy)
-3. 🎉 Merged PR [#2413](https://github.com/christianhuth/helm-charts/pull/2413) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ℹ️ Labeled PR [#2413](https://github.com/christianhuth/helm-charts/pull/2413) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 💪 Opened PR [#2413](https://github.com/christianhuth/helm-charts/pull/2413) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. ℹ️ Labeled PR [#2415](https://github.com/christianhuth/helm-charts/pull/2415) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 💪 Opened PR [#2415](https://github.com/christianhuth/helm-charts/pull/2415) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. ❗ Opened issue [#100](https://github.com/firestoned/bindy/issues/100) in [firestoned/bindy](https://github.com/firestoned/bindy)
+4. 🗣 Commented on [#40](https://github.com/firestoned/bindy/issues/40#issuecomment-3804060313) in [firestoned/bindy](https://github.com/firestoned/bindy)
+5. 🎉 Merged PR [#2413](https://github.com/christianhuth/helm-charts/pull/2413) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
