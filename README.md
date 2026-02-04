@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2440](https://github.com/christianhuth/helm-charts/pull/2440) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. ℹ️ Labeled PR [#2440](https://github.com/christianhuth/helm-charts/pull/2440) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 💪 Opened PR [#2440](https://github.com/christianhuth/helm-charts/pull/2440) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 🗣 Commented on [#100](https://github.com/firestoned/bindy/issues/100#issuecomment-3841721846) in [firestoned/bindy](https://github.com/firestoned/bindy)
-5. 🎉 Merged PR [#2427](https://github.com/christianhuth/helm-charts/pull/2427) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. ℹ️ Labeled PR [#2441](https://github.com/christianhuth/helm-charts/pull/2441) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 💪 Opened PR [#2441](https://github.com/christianhuth/helm-charts/pull/2441) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 🎉 Merged PR [#2440](https://github.com/christianhuth/helm-charts/pull/2440) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. ℹ️ Labeled PR [#2440](https://github.com/christianhuth/helm-charts/pull/2440) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 💪 Opened PR [#2440](https://github.com/christianhuth/helm-charts/pull/2440) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
