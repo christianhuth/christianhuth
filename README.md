@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#2495](https://github.com/christianhuth/helm-charts/pull/2495) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 🎉 Merged PR [#2494](https://github.com/christianhuth/helm-charts/pull/2494) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🎉 Merged PR [#2493](https://github.com/christianhuth/helm-charts/pull/2493) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 🎉 Merged PR [#2492](https://github.com/christianhuth/helm-charts/pull/2492) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 🎉 Merged PR [#2491](https://github.com/christianhuth/helm-charts/pull/2491) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. ℹ️ Labeled PR [#2501](https://github.com/christianhuth/helm-charts/pull/2501) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 💪 Opened PR [#2501](https://github.com/christianhuth/helm-charts/pull/2501) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. ℹ️ Labeled PR [#2500](https://github.com/christianhuth/helm-charts/pull/2500) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 💪 Opened PR [#2500](https://github.com/christianhuth/helm-charts/pull/2500) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. ℹ️ Labeled PR [#2499](https://github.com/christianhuth/helm-charts/pull/2499) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
