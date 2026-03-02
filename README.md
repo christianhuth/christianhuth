@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/netbirdio/kubernetes-operator/issues/114#issuecomment-3983593350) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
-2. 🗣 Commented on [#114](https://github.com/netbirdio/kubernetes-operator/issues/114#issuecomment-3983402575) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
-3. ❗ Opened issue [#114](https://github.com/netbirdio/kubernetes-operator/issues/114) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
-4. 💪 Opened PR [#38](https://github.com/netbirdio/helms/pull/38) in [netbirdio/helms](https://github.com/netbirdio/helms)
-5. 🎉 Merged PR [#2548](https://github.com/christianhuth/helm-charts/pull/2548) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🎉 Merged PR [#2549](https://github.com/christianhuth/helm-charts/pull/2549) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 💪 Opened PR [#2549](https://github.com/christianhuth/helm-charts/pull/2549) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 🗣 Commented on [#114](https://github.com/netbirdio/kubernetes-operator/issues/114#issuecomment-3983593350) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
+4. 🗣 Commented on [#114](https://github.com/netbirdio/kubernetes-operator/issues/114#issuecomment-3983402575) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
+5. ❗ Opened issue [#114](https://github.com/netbirdio/kubernetes-operator/issues/114) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
 <!--END_SECTION:activity-->
