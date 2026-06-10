@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#274](https://github.com/netbirdio/kubernetes-operator/issues/274#issuecomment-4671613381) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
-2. 🗣 Commented on [#292](https://github.com/netbirdio/kubernetes-operator/issues/292#issuecomment-4671545153) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
-3. 🗣 Commented on [#292](https://github.com/netbirdio/kubernetes-operator/issues/292#issuecomment-4667644907) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
-4. ❗ Opened issue [#292](https://github.com/netbirdio/kubernetes-operator/issues/292) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
-5. 🗣 Commented on [#215](https://github.com/netbirdio/kubernetes-operator/issues/215#issuecomment-4667083953) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
+1. 🔒 Closed issue [#284](https://github.com/netbirdio/kubernetes-operator/issues/284) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
+2. 🗣 Commented on [#284](https://github.com/netbirdio/kubernetes-operator/issues/284#issuecomment-4672784405) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
+3. 🗣 Commented on [#274](https://github.com/netbirdio/kubernetes-operator/issues/274#issuecomment-4672780591) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
+4. 🗣 Commented on [#292](https://github.com/netbirdio/kubernetes-operator/issues/292#issuecomment-4672772474) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
+5. 🗣 Commented on [#274](https://github.com/netbirdio/kubernetes-operator/issues/274#issuecomment-4671613381) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
 <!--END_SECTION:activity-->
