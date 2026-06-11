@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3014](https://github.com/christianhuth/helm-charts/pull/3014) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. ℹ️ Labeled PR [#3014](https://github.com/christianhuth/helm-charts/pull/3014) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 💪 Opened PR [#3014](https://github.com/christianhuth/helm-charts/pull/3014) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 🔒 Closed issue [#284](https://github.com/netbirdio/kubernetes-operator/issues/284) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
-5. 🗣 Commented on [#284](https://github.com/netbirdio/kubernetes-operator/issues/284#issuecomment-4672784405) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
+1. ℹ️ Labeled PR [#3015](https://github.com/christianhuth/helm-charts/pull/3015) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 💪 Opened PR [#3015](https://github.com/christianhuth/helm-charts/pull/3015) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 🎉 Merged PR [#3014](https://github.com/christianhuth/helm-charts/pull/3014) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. ℹ️ Labeled PR [#3014](https://github.com/christianhuth/helm-charts/pull/3014) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 💪 Opened PR [#3014](https://github.com/christianhuth/helm-charts/pull/3014) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
