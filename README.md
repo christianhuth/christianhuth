@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3031](https://github.com/christianhuth/helm-charts/pull/3031) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 💪 Opened PR [#3031](https://github.com/christianhuth/helm-charts/pull/3031) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🎉 Merged PR [#3028](https://github.com/christianhuth/helm-charts/pull/3028) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 🎉 Merged PR [#3027](https://github.com/christianhuth/helm-charts/pull/3027) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. ❗ Opened issue [#312](https://github.com/netbirdio/kubernetes-operator/issues/312) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
+1. 💪 Opened PR [#107](https://github.com/KitStream/helms/pull/107) in [KitStream/helms](https://github.com/KitStream/helms)
+2. ❗ Opened issue [#106](https://github.com/KitStream/helms/issues/106) in [KitStream/helms](https://github.com/KitStream/helms)
+3. 💪 Opened PR [#105](https://github.com/KitStream/helms/pull/105) in [KitStream/helms](https://github.com/KitStream/helms)
+4. ❗ Opened issue [#104](https://github.com/KitStream/helms/issues/104) in [KitStream/helms](https://github.com/KitStream/helms)
+5. 🎉 Merged PR [#3029](https://github.com/christianhuth/helm-charts/pull/3029) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
