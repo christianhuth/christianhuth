@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/KitStream/helms/pull/105#issuecomment-4864271148) in [KitStream/helms](https://github.com/KitStream/helms)
-2. 🗣 Commented on [#46](https://github.com/netbirdio/helms/pull/46#issuecomment-4862841559) in [netbirdio/helms](https://github.com/netbirdio/helms)
-3. 🎉 Merged PR [#3075](https://github.com/christianhuth/helm-charts/pull/3075) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ℹ️ Labeled PR [#3075](https://github.com/christianhuth/helm-charts/pull/3075) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 💪 Opened PR [#3075](https://github.com/christianhuth/helm-charts/pull/3075) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🗣 Commented on [#349](https://github.com/netbirdio/kubernetes-operator/issues/349#issuecomment-4865844425) in [netbirdio/kubernetes-operator](https://github.com/netbirdio/kubernetes-operator)
+2. 🗣 Commented on [#105](https://github.com/KitStream/helms/pull/105#issuecomment-4864271148) in [KitStream/helms](https://github.com/KitStream/helms)
+3. 🗣 Commented on [#46](https://github.com/netbirdio/helms/pull/46#issuecomment-4862841559) in [netbirdio/helms](https://github.com/netbirdio/helms)
+4. 🎉 Merged PR [#3075](https://github.com/christianhuth/helm-charts/pull/3075) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. ℹ️ Labeled PR [#3075](https://github.com/christianhuth/helm-charts/pull/3075) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
