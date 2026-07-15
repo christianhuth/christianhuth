@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3113](https://github.com/christianhuth/helm-charts/pull/3113) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. ℹ️ Labeled PR [#3118](https://github.com/christianhuth/helm-charts/pull/3118) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 💪 Opened PR [#3118](https://github.com/christianhuth/helm-charts/pull/3118) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ℹ️ Labeled PR [#3117](https://github.com/christianhuth/helm-charts/pull/3117) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 💪 Opened PR [#3117](https://github.com/christianhuth/helm-charts/pull/3117) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🗣 Commented on [#2997](https://github.com/christianhuth/helm-charts/pull/2997#issuecomment-4984162290) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 🗣 Commented on [#2996](https://github.com/christianhuth/helm-charts/pull/2996#issuecomment-4984161616) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 🗣 Commented on [#2989](https://github.com/christianhuth/helm-charts/pull/2989#issuecomment-4984160397) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 🗣 Commented on [#3118](https://github.com/christianhuth/helm-charts/pull/3118#issuecomment-4984158921) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. ℹ️ Assigned PR [#3118](https://github.com/christianhuth/helm-charts/pull/3118) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
