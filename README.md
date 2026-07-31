@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3131](https://github.com/christianhuth/helm-charts/pull/3131) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. ℹ️ Labeled PR [#3131](https://github.com/christianhuth/helm-charts/pull/3131) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 💪 Opened PR [#3131](https://github.com/christianhuth/helm-charts/pull/3131) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 🎉 Merged PR [#3130](https://github.com/christianhuth/helm-charts/pull/3130) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 🗣 Commented on [#18230](https://github.com/cilium/cilium/issues/18230#issuecomment-5118145916) in [cilium/cilium](https://github.com/cilium/cilium)
+1. 🗣 Commented on [#1471](https://github.com/kyverno/policy-reporter/issues/1471#issuecomment-5140764428) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+2. ℹ️ Labeled PR [#3132](https://github.com/christianhuth/helm-charts/pull/3132) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 💪 Opened PR [#3132](https://github.com/christianhuth/helm-charts/pull/3132) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 🎉 Merged PR [#3131](https://github.com/christianhuth/helm-charts/pull/3131) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. ℹ️ Labeled PR [#3131](https://github.com/christianhuth/helm-charts/pull/3131) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
