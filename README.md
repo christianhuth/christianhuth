@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3215](https://github.com/christianhuth/helm-charts/pull/3215) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 💪 Opened PR [#3215](https://github.com/christianhuth/helm-charts/pull/3215) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🔒 Closed issue [#1471](https://github.com/kyverno/policy-reporter/issues/1471) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
-4. 🗣 Commented on [#1471](https://github.com/kyverno/policy-reporter/issues/1471#issuecomment-5344533632) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
-5. 🗣 Commented on [#1375](https://github.com/falcosecurity/falcosidekick/issues/1375#issuecomment-5344466048) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+1. ℹ️ Assigned PR [#3215](https://github.com/christianhuth/helm-charts/pull/3215) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. ℹ️ Labeled PR [#3215](https://github.com/christianhuth/helm-charts/pull/3215) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 💪 Opened PR [#3215](https://github.com/christianhuth/helm-charts/pull/3215) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 🔒 Closed issue [#1471](https://github.com/kyverno/policy-reporter/issues/1471) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+5. 🗣 Commented on [#1471](https://github.com/kyverno/policy-reporter/issues/1471#issuecomment-5344533632) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
 <!--END_SECTION:activity-->
