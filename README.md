@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#346](https://github.com/hardbyte/netchecks/pull/346) in [hardbyte/netchecks](https://github.com/hardbyte/netchecks)
-2. ❗ Opened issue [#345](https://github.com/hardbyte/netchecks/issues/345) in [hardbyte/netchecks](https://github.com/hardbyte/netchecks)
-3. ℹ️ Assigned PR [#3215](https://github.com/christianhuth/helm-charts/pull/3215) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ℹ️ Labeled PR [#3215](https://github.com/christianhuth/helm-charts/pull/3215) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 💪 Opened PR [#3215](https://github.com/christianhuth/helm-charts/pull/3215) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🗣 Commented on [#345](https://github.com/hardbyte/netchecks/issues/345#issuecomment-5356135892) in [hardbyte/netchecks](https://github.com/hardbyte/netchecks)
+2. 🗣 Commented on [#346](https://github.com/hardbyte/netchecks/pull/346#issuecomment-5356135618) in [hardbyte/netchecks](https://github.com/hardbyte/netchecks)
+3. ❗ Opened issue [#347](https://github.com/hardbyte/netchecks/issues/347) in [hardbyte/netchecks](https://github.com/hardbyte/netchecks)
+4. 💪 Opened PR [#346](https://github.com/hardbyte/netchecks/pull/346) in [hardbyte/netchecks](https://github.com/hardbyte/netchecks)
+5. ❗ Opened issue [#345](https://github.com/hardbyte/netchecks/issues/345) in [hardbyte/netchecks](https://github.com/hardbyte/netchecks)
 <!--END_SECTION:activity-->
