@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3219](https://github.com/christianhuth/helm-charts/pull/3219) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 🎉 Merged PR [#3218](https://github.com/christianhuth/helm-charts/pull/3218) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🎉 Merged PR [#3217](https://github.com/christianhuth/helm-charts/pull/3217) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 🎉 Merged PR [#3215](https://github.com/christianhuth/helm-charts/pull/3215) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. ℹ️ Labeled PR [#3222](https://github.com/christianhuth/helm-charts/pull/3222) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🗣 Commented on [#1567](https://github.com/kyverno/policy-reporter/issues/1567#issuecomment-5381124512) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+2. 🎉 Merged PR [#3221](https://github.com/christianhuth/helm-charts/pull/3221) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 🎉 Merged PR [#3219](https://github.com/christianhuth/helm-charts/pull/3219) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 🎉 Merged PR [#3218](https://github.com/christianhuth/helm-charts/pull/3218) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 🎉 Merged PR [#3217](https://github.com/christianhuth/helm-charts/pull/3217) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
