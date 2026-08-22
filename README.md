@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3216](https://github.com/christianhuth/helm-charts/pull/3216) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 💪 Opened PR [#3216](https://github.com/christianhuth/helm-charts/pull/3216) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🗣 Commented on [#1567](https://github.com/kyverno/policy-reporter/issues/1567#issuecomment-5357756907) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
-4. ❗ Opened issue [#1567](https://github.com/kyverno/policy-reporter/issues/1567) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
-5. 🗣 Commented on [#346](https://github.com/hardbyte/netchecks/pull/346#issuecomment-5356891401) in [hardbyte/netchecks](https://github.com/hardbyte/netchecks)
+1. 🎉 Merged PR [#3215](https://github.com/christianhuth/helm-charts/pull/3215) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. ℹ️ Labeled PR [#3222](https://github.com/christianhuth/helm-charts/pull/3222) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 💪 Opened PR [#3222](https://github.com/christianhuth/helm-charts/pull/3222) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. ℹ️ Labeled PR [#3221](https://github.com/christianhuth/helm-charts/pull/3221) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 💪 Opened PR [#3221](https://github.com/christianhuth/helm-charts/pull/3221) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
