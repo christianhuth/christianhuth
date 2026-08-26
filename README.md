@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1425](https://github.com/falcosecurity/falcosidekick/pull/1425) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-2. 💪 Opened PR [#1425](https://github.com/falcosecurity/falcosidekick/pull/1425) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-3. ℹ️ Labeled issue [#1424](https://github.com/falcosecurity/falcosidekick/issues/1424) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-4. ❗ Opened issue [#1424](https://github.com/falcosecurity/falcosidekick/issues/1424) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-5. 🎉 Merged PR [#3220](https://github.com/christianhuth/helm-charts/pull/3220) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🗣 Commented on [#1567](https://github.com/kyverno/policy-reporter/issues/1567#issuecomment-5423645097) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+2. 🎉 Merged PR [#1425](https://github.com/falcosecurity/falcosidekick/pull/1425) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+3. 💪 Opened PR [#1425](https://github.com/falcosecurity/falcosidekick/pull/1425) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+4. ℹ️ Labeled issue [#1424](https://github.com/falcosecurity/falcosidekick/issues/1424) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+5. ❗ Opened issue [#1424](https://github.com/falcosecurity/falcosidekick/issues/1424) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
 <!--END_SECTION:activity-->
