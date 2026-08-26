@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1567](https://github.com/kyverno/policy-reporter/issues/1567#issuecomment-5423645097) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
-2. 🎉 Merged PR [#1425](https://github.com/falcosecurity/falcosidekick/pull/1425) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-3. 💪 Opened PR [#1425](https://github.com/falcosecurity/falcosidekick/pull/1425) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-4. ℹ️ Labeled issue [#1424](https://github.com/falcosecurity/falcosidekick/issues/1424) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
-5. ❗ Opened issue [#1424](https://github.com/falcosecurity/falcosidekick/issues/1424) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+1. 🗣 Commented on [#44803](https://github.com/renovatebot/renovate/pull/44803#issuecomment-5425981078) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+2. 🗣 Commented on [#1567](https://github.com/kyverno/policy-reporter/issues/1567#issuecomment-5423645097) in [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter)
+3. 🎉 Merged PR [#1425](https://github.com/falcosecurity/falcosidekick/pull/1425) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+4. 💪 Opened PR [#1425](https://github.com/falcosecurity/falcosidekick/pull/1425) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
+5. ℹ️ Labeled issue [#1424](https://github.com/falcosecurity/falcosidekick/issues/1424) in [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick)
 <!--END_SECTION:activity-->
