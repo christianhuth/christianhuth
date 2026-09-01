@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3226](https://github.com/christianhuth/helm-charts/pull/3226) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 💪 Opened PR [#3226](https://github.com/christianhuth/helm-charts/pull/3226) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. ❗ Opened issue [#271](https://github.com/che-incubator/kubernetes-image-puller/issues/271) in [che-incubator/kubernetes-image-puller](https://github.com/che-incubator/kubernetes-image-puller)
-4. 🎉 Merged PR [#3225](https://github.com/christianhuth/helm-charts/pull/3225) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 🎉 Merged PR [#3224](https://github.com/christianhuth/helm-charts/pull/3224) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🎉 Merged PR [#346](https://github.com/hardbyte/netchecks/pull/346) in [hardbyte/netchecks](https://github.com/hardbyte/netchecks)
+2. 🎉 Merged PR [#3226](https://github.com/christianhuth/helm-charts/pull/3226) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 💪 Opened PR [#3226](https://github.com/christianhuth/helm-charts/pull/3226) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. ❗ Opened issue [#271](https://github.com/che-incubator/kubernetes-image-puller/issues/271) in [che-incubator/kubernetes-image-puller](https://github.com/che-incubator/kubernetes-image-puller)
+5. 🎉 Merged PR [#3225](https://github.com/christianhuth/helm-charts/pull/3225) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
