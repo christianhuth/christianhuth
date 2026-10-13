@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3333](https://github.com/christianhuth/helm-charts/issues/3333#issuecomment-6127238863) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 🗣 Commented on [#3268](https://github.com/christianhuth/helm-charts/issues/3268#issuecomment-6127178430) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🗣 Commented on [#6105](https://github.com/envoyproxy/gateway/issues/6105#issuecomment-6125538180) in [envoyproxy/gateway](https://github.com/envoyproxy/gateway)
-4. 🗣 Commented on [#3083](https://github.com/christianhuth/helm-charts/issues/3083#issuecomment-6127162339) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. ❗ Opened issue [#3338](https://github.com/christianhuth/helm-charts/issues/3338) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 💪 Opened PR [#3339](https://github.com/christianhuth/helm-charts/pull/3339) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 🗣 Commented on [#3333](https://github.com/christianhuth/helm-charts/issues/3333#issuecomment-6127238863) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 🗣 Commented on [#3268](https://github.com/christianhuth/helm-charts/issues/3268#issuecomment-6127178430) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+4. 🗣 Commented on [#6105](https://github.com/envoyproxy/gateway/issues/6105#issuecomment-6125538180) in [envoyproxy/gateway](https://github.com/envoyproxy/gateway)
+5. 🗣 Commented on [#3083](https://github.com/christianhuth/helm-charts/issues/3083#issuecomment-6127162339) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
