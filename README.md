@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3370](https://github.com/christianhuth/helm-charts/pull/3370#issuecomment-6355047853) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 🎉 Merged PR [#3364](https://github.com/christianhuth/helm-charts/pull/3364) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 💪 Opened PR [#3371](https://github.com/christianhuth/helm-charts/pull/3371) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ℹ️ Labeled PR [#3371](https://github.com/christianhuth/helm-charts/pull/3371) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. ℹ️ Labeled PR [#3370](https://github.com/christianhuth/helm-charts/pull/3370) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. 🎉 Merged PR [#1961](https://github.com/cncf/people/pull/1961) in [cncf/people](https://github.com/cncf/people)
+2. 💪 Opened PR [#3372](https://github.com/christianhuth/helm-charts/pull/3372) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 💪 Opened PR [#1961](https://github.com/cncf/people/pull/1961) in [cncf/people](https://github.com/cncf/people)
+4. 🎉 Merged PR [#3371](https://github.com/christianhuth/helm-charts/pull/3371) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 🗣 Commented on [#3370](https://github.com/christianhuth/helm-charts/pull/3370#issuecomment-6355047853) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
