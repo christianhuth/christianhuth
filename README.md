@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3390](https://github.com/christianhuth/helm-charts/pull/3390) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-2. 🎉 Merged PR [#3389](https://github.com/christianhuth/helm-charts/pull/3389) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🎉 Merged PR [#3388](https://github.com/christianhuth/helm-charts/pull/3388) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. 🎉 Merged PR [#3386](https://github.com/christianhuth/helm-charts/pull/3386) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 🔒 Closed issue [#2418](https://github.com/christianhuth/helm-charts/issues/2418) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. ℹ️ Labeled PR [#3391](https://github.com/christianhuth/helm-charts/pull/3391) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 💪 Opened PR [#3391](https://github.com/christianhuth/helm-charts/pull/3391) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 🎉 Merged PR [#4682](https://github.com/umami-software/umami/pull/4682) in [umami-software/umami](https://github.com/umami-software/umami)
+4. 🎉 Merged PR [#3390](https://github.com/christianhuth/helm-charts/pull/3390) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 🎉 Merged PR [#3389](https://github.com/christianhuth/helm-charts/pull/3389) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
