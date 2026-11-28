@@ -275,9 +275,9 @@
 #### Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4240](https://github.com/argoproj/argo-helm/issues/4240) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
-2. 🎉 Merged PR [#3433](https://github.com/christianhuth/helm-charts/pull/3433) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-3. 🎉 Merged PR [#3415](https://github.com/christianhuth/helm-charts/pull/3415) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-4. ℹ️ Labeled PR [#3433](https://github.com/christianhuth/helm-charts/pull/3433) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
-5. 💪 Opened PR [#3433](https://github.com/christianhuth/helm-charts/pull/3433) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+1. ℹ️ Labeled PR [#3434](https://github.com/christianhuth/helm-charts/pull/3434) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+2. 💪 Opened PR [#3434](https://github.com/christianhuth/helm-charts/pull/3434) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+3. 🔒 Closed issue [#4240](https://github.com/argoproj/argo-helm/issues/4240) in [argoproj/argo-helm](https://github.com/argoproj/argo-helm)
+4. 🎉 Merged PR [#3433](https://github.com/christianhuth/helm-charts/pull/3433) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
+5. 🎉 Merged PR [#3415](https://github.com/christianhuth/helm-charts/pull/3415) in [christianhuth/helm-charts](https://github.com/christianhuth/helm-charts)
 <!--END_SECTION:activity-->
